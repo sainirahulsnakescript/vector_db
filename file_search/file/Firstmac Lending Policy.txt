@@ -1,0 +1,3502 @@
+Firstmac Residential 
+Lending Policy 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+Originator / Broker Version 02-2024 
+ 
+ 
+ 
+February 2024 
+Broker 
+
+ 
+1 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Summary of recent updates 
+ 
+Date 
+Policy section 
+Summary of change 
+29/02/2024 
+19.2 Maximum LVR & Loan 
+Amount by Postcode Location 
+Various updates to maximum loan amount per security 
+29/02/2024 
+31.8 Loan amount & LVR (SMSF) 
+Various updates to maximum loan amount per security 
+13/02/2024 
+17 Security Valuations 
+AVM & Desktop criteria updated to include LVR / FSD 
+tiering and Desktop criteria for SMSF loans with residential 
+security) 
+13/02/2024 
+31.11 Security valuations for SMSF 
+loans 
+EVR / Desktop valuations for residential security – max LVR 
+70% 
+10/11/2023 
+15.1 Firstmac Serviceability 
+Assessment Rate 
+Assessment rates updated in line with RBA rate change 
+10/11/2023 
+31.10.1 Serviceability assessment 
+rate (SMSF) 
+Assessment rates updated in line with RBA rate change 
+04/10/2023 
+19.2 Maximum LVR & Loan 
+Amounts by Postcode location 
+Maximum LVR & loan amount based on security use 
+updated for Home loans, non-resident borrower & SMSF 
+04/10/2023 
+8 Non-resident borrowers 
+Maximum loan amount / TXP aligned with standard policy; 
+LMI not required for LVR > 70% < 80% 
+07/09/2023 
+5.1 Lender Risk Fee (LRF) 
+Max loan amount where all security is Cat 1a increased 
+21/08/2023 
+32 Bridging Loans 
+New Bridging Loan Policy added 
+03/07/2023 
+15.1 Firstmac Serviceability 
+Assessment Rate 
+Buffer reduced from 3.00% pa to 2.00% pa 
+03/07/2023 
+31.10.1 Serviceability assessment 
+rate (SMSF) 
+Buffer reduced from 3.00% pa to 2.00% pa 
+08/06/2023 
+10 Employment and Income 
+Minimum time in current employment for Casual 
+employees updated 
+23/05/2023 
+19.2 Maximum LVR & Loan 
+Amounts by Postcode location 
+Maximum LVR & loan amount based on security use 
+increased for owner occupied  
+15/03/2023 
+19 Loan amount  
+Maximum loan amount per security for Category 2 and 
+Category 3 postcodes updated 
+24/01/2023 
+19.1 Postcode category 
+Postcode category description includes ‘sub-category’ 
+applied to some postcodes 
+24/01/2023 
+31.8 Loan amount & LVR (SMSF)  
+Maximum loan amount per security for Category 2 and 
+Category 3 postcodes updated 
+ 
+ 
+ 
+ 
+
+ 
+2 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Contents 
+1 
+Introduction ......................................................................................................................... 4 
+2 
+Purpose of the Lending Policy ............................................................................................... 4 
+3 
+Responsibilities .................................................................................................................... 4 
+4 
+Loan approvals ..................................................................................................................... 8 
+5 
+Risk Fee ................................................................................................................................ 9 
+6 
+Lender’s Mortgage Insurance (LMI) ..................................................................................... 10 
+7 
+Borrowers, guarantors, and mortgagors .............................................................................. 11 
+8 
+Non-resident borrowers ..................................................................................................... 16 
+9 
+Credit reports ..................................................................................................................... 17 
+10 Employment and income .................................................................................................... 19 
+11 Acceptable income types .................................................................................................... 24 
+12 Confirmation of debts 
+......................................................................................................... 32 
+13 Savings history and proof of deposit and source .................................................................. 32 
+14 Assessing the ability to repay .............................................................................................. 33 
+15 Loan serviceability calculation 
+............................................................................................. 34 
+16 Security .............................................................................................................................. 38 
+17 Security Valuations ............................................................................................................. 42 
+18 Loan purpose 
+...................................................................................................................... 46 
+19 Loan amount ...................................................................................................................... 50 
+20 Repayment types 
+................................................................................................................ 52 
+21 Loan term 
+........................................................................................................................... 52 
+22 Interest rate options ........................................................................................................... 52 
+23 Split loan options 
+................................................................................................................ 52 
+24 Repayments ....................................................................................................................... 53 
+25 Redraw .............................................................................................................................. 54 
+26 Variations and Substitutions ............................................................................................... 54 
+27 Identifying borrowers ......................................................................................................... 54 
+28 Offset sub-account ............................................................................................................. 55 
+29 Self-Certified (Lo Doc) loans ................................................................................................ 55 
+30 Building insurance .............................................................................................................. 56 
+31 Self Managed Super Funds (SMSF) ...................................................................................... 56 
+32 Bridging loans 
+..................................................................................................................... 65 
+
+ 
+3 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Annexure 1 
+Valuation Variation Acknowledgement template 
+.................................................. 68 
+Annexure 2 
+Firstmac Valuations Standards and Valuer Accreditation 
+....................................... 69 
+Annexure 3 
+Firstmac Valuation Guidelines for Mortgagee in Possession (MIP) valuations ........ 74 
+ 
+ 
+ 
+
+ 
+4 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+1 Introduction 
+Firstmac’s lending guidelines have been developed to assist Brokers and Originator / Mortgage 
+Managers in writing mortgage loans with a risk profile consistent with that expected of AAA 
+rated mortgage loan securities and industry best practice generally.  
+Firstmac is prepared to look at the merit of loans on an individual basis. Ultimately however, if 
+mortgage insurance is unavailable on a transaction, Firstmac cannot accept the loan into the 
+program unless specifically allowed under Firstmac policy.  Any exceptions to policy may be 
+considered on case by case basis by Firstmac credit and where considered appropriate, should 
+be mortgage insured.  
+This Policy should be read in conjunction with other Firstmac updates, guidelines and 
+operations manuals which together form the basis for providing residential loan funding under 
+the mortgage program. 
+Firstmac’s lending guidelines are governed by the Firstmac Credit Committee Charter. 
+All loans submitted and processed through Firstmac or the Firstmac Residential Program must 
+comply with the specific requirements of the Firstmac Residential Lending Policy and all other 
+guidelines and procedures as advised from time to time by Firstmac.  
+All parties must also ensure that they also comply with the specific Responsible Lending 
+requirements. 
+All loans being documented must also comply with the requirements in the Documents and 
+Procedures Manual as amended from time to time, under the Firstmac Residential Program. 
+2 Purpose of the Lending Policy 
+This policy contains guidelines for residential lending nationwide. It is intended as an easy 
+reference manual to lending guidelines, acceptable credit standards and macro processes.  
+The principles presented in this policy should not be interpreted as a set of inflexible rules, but 
+as a set of guidelines, to be practiced in association with prudent lending practices and 
+common sense. Every application should be assessed on its own merit.  
+2.1 Policy Exceptions 
+Loans that are outside the guidelines presented in this policy may still be considered if there are 
+inherent strengths to the transaction; credit risks can be mitigated with justification and 
+sufficient supporting documentation can be provided which would enable the loans to be 
+approved.  
+3 Responsibilities 
+All parties have particular responsibilities to be fulfilled to ensure prudent lending practices are 
+followed.  
+ 
+
+ 
+5 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Originator / Mortgage Manager and Brokers 
+Originator / Mortgage Manager or Originator / Mortgage Manager Agents or Brokers must 
+perform the following tasks:  
+• Conduct loan interview, discuss loan options and determine the most suitable loan 
+product for the customer 
+• Advise the customer about the approval process  
+• Assist customer with the preparation of the loan application if required  
+• Sight all original verification documents required in support of the loan application, 
+check their authenticity and obtain copies for their file, and forward copies to Firstmac.  
+• Complete the Customer Identification and Verification form after comparing the 
+borrower and their signature with the photographic ID and taking a copy of the 
+identification documents or any other identification procedures as advised and required 
+by Firstmac. 
+In addition, Originator/Mortgage Manager only must perform the following tasks:  
+• Using the White Pages or Yellow Pages Telephone Directory, independently verify the 
+telephone number of the employer/accountant and contact the employer /accountant 
+by telephone to confirm employment details. A file note is raised noting the name of the 
+caller; the number called; the date and time of the call and the name/position of the 
+person providing the confirmation and full details of what was confirmed ie income, 
+length of employment, position etc. Print a copy of the White / Yellow Pages listing 
+submit with the loan package and retain a copy on file. NOTE. Under no circumstances 
+are mobile phone numbers or numbers supplied by third parties to be used. 
+• Obtain credit reports on all parties to the loan application together with associated 
+companies; proprietorships; possible matches and cross-linked files  
+• Obtain valuations of the security properties  
+• Prepare and submit Lender’s Mortgage Insurance application for approval  
+Firstmac Credit 
+• Performs Valuer checks  
+• Undertakes a credit assessment and review of all loan applications to ensure compliance 
+with program parameters  
+• Advises the Originator / Mortgage Manager or Broker if more information is required or 
+of any special conditions. It would be expected that the requirement for additional 
+information would occur rarely as the Originator / Mortgage Manager or Broker would 
+supply all the required information with the application 
+• Approves, declines or defers the application  
+• Undertakes ongoing audit  
+
+ 
+6 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+3.1 National Consumer Credit Protection Act (“NCCP”) 
+The Uniform Consumer Credit Code was replaced by the National Credit Code (‘’NCC’’) on 1 July 
+2010.  
+The NCCP requires all businesses operating in the consumer credit to: 
+• Be licensed or appointed a credit representative (subject to certain exceptions) 
+• Comply with the National Consumer Credit Code 
+The NCCP applies to Firstmac and to Originators/Mortgage Managers and Brokers. It is 
+important that employees and any agents of Firstmac know how the NCCP affects the policies 
+and procedures and processes of Firstmac. Ongoing compliance with the NCCP is mandatory. 
+All Originators/Mortgage Managers, Brokers or Introducers, and their representatives and 
+employees involved with any credit related activities under the NCCP are required to observe 
+and comply with the guidelines. 
+Firstmac expects any Originator/Mortgage Manager, Broker or Introducer to suggest or 
+recommend to an applicant only those arrangements for finance that the Originator/Mortgage 
+Manager, Broker or Introducer genuinely and reasonably believes is ‘not unsuitable’ to the 
+needs of that applicant after undertaking an assessment of the applicant’s capacity to repay the 
+loan.  Firstmac applies this standard to all loans and not just NCCP regulated loans. 
+The Originator/Mortgage Manager, Broker or Introducer warrants and represents that each of 
+their staff and/or representative processing a mortgage loan application which is assessed and 
+submitted to Firstmac has been trained on and understand their obligations under Firstmac's 
+Lending Policy and requirements and obligations under the NCCP including the responsible 
+lending obligations. 
+If there are any queries, please direct them to your contact or BDM at Firstmac. 
+3.2 Firstmac Credit Assessment 
+ Firstmac undertakes individual credit assessments using its systems, policies and process to 
+assess whether it is likely that the borrower will be able to comply with their financial 
+obligations under the contract without substantial hardship.  
+‘Substantial hardship’ is defined to exist if the borrower could only comply with the obligation 
+by: 
+• selling their principle place of residence (and does not intend to at the time of the 
+contract); or  
+• would fail to make rental payments on the principal place of residence. 
+Firstmac assesses credit risk primarily on the strength of a borrower’s capacity to repay the loan 
+without substantial hardship. While the security provided is also considered, reliance on the 
+security is not a substitute for a credit assessment of a borrower’s repayment capacity. 
+ 
+ 
+
+ 
+7 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Firstmac’s assessment includes: 
+• making reasonable enquiries about the consumers’ financial situation and 
+circumstances, and their requirements and objective 
+• taking reasonable steps to verify the consumers’ financial situation  
+• making a preliminary (Originator/Mortgage Manager, Broker or Introducer) or final 
+assessment (lenders) about whether the credit is ‘not unsuitable’ for the consumer 
+All loans submitted and processed through Firstmac or the Firstmac Residential Program must 
+comply with this Policy, the specific requirements of the Firstmac Residential Lending Policy and 
+all other guidelines and procedures as advised from time to time by Firstmac 
+If the loan application or information provided on any given application does not adequately 
+demonstrate that an appropriate level of enquiry or loan assessment have been undertaken, 
+then Firstmac may request that additional information be provided and submitted. 
+In addition to complying with all the current Firstmac lending policy and underwriting 
+requirements as amended from time to time, Firstmac also requires that all 
+Originator/Mortgage Managers, Brokers or Introducers make specific enquiries relating to the 
+following: 
+• Is customer aware of information relevant to their loan application that has not been 
+provided and may have an adverse impact on their financial circumstances?   
+• Is customer aware of any future change in their employment which may adversely affect 
+his/her/their ability to meet their current and future financial obligations? 
+• Does customer anticipate any increase to their expenses/liabilities over the next 12 
+months (e.g. ill health or disability, a possible claim requiring payment, end of interest 
+free or honeymoon period on a loan)? 
+• Does customer anticipate any decrease to their income during the next 12 months (e.g. 
+extended leave, retirement, reduction in overtime)? 
+• Does customer anticipate any reduction in profit/income/cash flow to their business 
+activities during the next 12 months? 
+Originator/Mortgage Managers, Brokers and Introducers will also need to take into account and 
+consider the following: 
+• ability of the customer to meet his or her financial obligations under the Proposed 
+Contract or ability to meet obligations without substantial hardship 
+• take reasonable steps to verify the customer’s financial situation 
+• assess according to the information provided by the customer about their objectives 
+and requirements 
+• with regard to the stated loan purpose, there is an obligation to determine whether or 
+not a loan is “not unsuitable” and an important part of that is to identify in more detail 
+
+ 
+8 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+about the stated purpose, what the funds are to be used for, and ensure that the 
+settlement proceeds are applied so far as we are able for that purpose.  
+3.3 Assessment period 
+All Originator/Mortgage Managers, Brokers and Introducers must make the preliminary 
+assessment within 90 days of when the credit assistance is provided. This will be when the 
+Originator/Mortgage Manager, Broker or Introducer assist the borrower to apply for a loan or 
+an increase to a loan.  Assisting a borrower arrange a settlement is not credit assistance, and so 
+the assessment does not need to be within 90 days of loan settlement. 
+The assessment must be made within 90 days of when the loan contract is entered or loan 
+principal amount is increased (120 days if the loan is used for the purchase of residential 
+property and is secured by a mortgage over that residential property).  The time limit for new 
+loans relates to the date of the credit contract, not the loan settlement date, whereas the time 
+limit for loan principal amount increases relates to the date the loan principal amount is 
+increased, not the contract date. 
+The assessment must state the period it covers. 
+Originator/Mortgage Managers, Brokers and Introducers will need to keep a record of the steps 
+taken to make reasonable enquiries; and to verify the consumers’ financial situation. The 
+Originator/Mortgage Manager, Broker or Introducer must retain a written (includes electronic) 
+copy of the preliminary assessment and provide it to borrowers on request made within seven 
+years of the date of the credit assistance.  Note that these procedures apply equally to principal 
+increases as to new loans. The assessment can be wholly in electronic form (ie a suitable record 
+on a system) but needs to contain a statement that a credit assessment has been made on a 
+specified date and the period for which it applies. 
+4 Loan approvals 
+A Delegated Lending Authority (DLA) is issued to Firstmac employees only. 
+All Firstmac DLA Holders are required to assess each loan in accordance with the Firstmac 
+Residential Lending Policy and the Lender’s Mortgage Insurer Guidelines (where required). 
+Final approval of a loan will only be issued once a Firstmac DLA Holder with appropriate level of 
+authority has reviewed the application, valuation, supporting documentation held and where 
+applicable, Lender’s Mortgage Insurance (LMI) is held. Loans not requiring Lender’s Mortgage 
+Insurance (Non-LMI) 
+Eligible loans will be considered without Lender’s Mortgage Insurance (LMI).  
+While the LVR is a key factor in determining whether a loan can be approved without LMI, other 
+borrower and loan characteristics are taken in to consideration. As a result, there will be loans 
+with an LVR less than 80% that Firstmac will deem require LMI (refer Lender’s Mortgage 
+Insurance (LMI)). 
+
+ 
+9 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+5 Risk Fee  
+A Risk Fee will be charged for loans with characteristics that represent a greater risk of loss. 
+The Risk Fee type and amount will vary depending on the loan amount and LVR, with pricing to 
+be determined by Firstmac and reviewed from time to time. 
+The Risk Fee is payable by the borrower, and may be capitalised to the loan, provided the total 
+loan amount including the Risk Fee does not exceed the limits outlined throughout this policy.   
+No part of the Risk Fee is refundable when a loan is repaid, or if the LVR is reduced, regardless 
+of how long the loan has been operating. 
+5.1 Lender Risk Fee (LRF) – LVR > 80% and < 90% 
+Loans with LVR > 80% < 90% may be considered without LMI where all below criteria is met: 
+• Security is in a Category 1a or Category 1b postcode as shown Firstmac Acceptable 
+Security Location guide; and  
+• Maximum loan amount (inclusive of LRF capitalised): 
+o $1,000,000 where all security is in Category 1a postcode 
+o $750,000 where any security is in a Category 1b postcode; and 
+• Maximum LVR < 90% (inclusive of LRF capitalised); and 
+• Repayments are Principal & Interest (not available for Interest Only); and 
+• All other standard credit criteria & residential lending policy is met. 
+• Exclusions: 
+o Loan is included in When LMI is required 
+o Any construction loan 
+o Any loan to a non-resident borrower or SMSF 
+o Apartments / units in a development > 6 floors & in a high density postcode as 
+per Firstmac Acceptable Security Location guide 
+Additional restrictions or exclusions as determined by Firstmac from time to time. Loans that do 
+not meet the above criteria require Lender’s Mortgage Insurance. 
+5.2 Investor Risk Fee (PRF) 
+An Investor Risk Fee will be charged where: 
+• 
+Borrower has investment lending only with Firstmac (ie owner occupied loan/security 
+held by another Lender; or no owner occupied property at all), and 
+• 
+Debt to Income ratio (DTI)* of 8.0:1 or above, and 
+• 
+LVR > 70% 
+* DTI is the total of all credit facility / debt limits divided by the total gross income 
+
+ 
+10 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+All standard credit criteria applies, plus the following: 
+• 
+Maximum LVR 80% before PRF is capitalised. 
+• 
+Where capitalising the IRF causes the LVR to go over 80%, loan repayments must be 
+principal and interest. 
+• 
+Exit strategy must be provided by the Borrower, regardless of the age of Borrower at 
+time of application. It is important that the borrower demonstrates awareness of their 
+leveraged position and actively considers their future strategy. 
+6 Lender’s Mortgage Insurance (LMI)  
+Lender's Mortgage Insurance (LMI) is protection for the lender, as it insures against any 
+shortfall of monies in the event of a forced sale of the security property. The borrower must be 
+made aware that this is the case and that it does not cover the borrower if any repayment is 
+missed or loss incurred as a result of loan default. 
+All loans which fall into the parameters outlined in When LMI is required must be 100% lender's 
+mortgage insured, with Cash Flow Cover for all loans with LVR > 80%. 
+Where an existing loan is mortgage insured without Cash Flow Cover due to the original LVR < 
+80%, Firstmac may require Cash Flow Cover on this loan where any variation is completed that 
+results in the LVR now exceeding 80%.  
+The current approved insurers are: 
+• Helia Insurance Pty Limited (formerly Genworth Financial Mortgage Insurance Pty 
+Limited) 
+• 
+QBE Lenders’ Mortgage Insurance Limited 
+• 
+and respective related companies of these two insurers, as advised. 
+For loans requiring LMI, the requirements of the Mortgage Insurer must also be observed, 
+whether they are consistent with provisions in this policy or not.  The Mortgage Insurer policy 
+however is not to supersede or override Firstmac’s policy. 
+As a duty of disclosure under the Insurance Contracts Act 1984 attaches to applications for LMI 
+cover, the Originator / Mortgage Manager must ensure that any matter known, or that could 
+reasonably have been expected to be known, and that would be relevant to the insurer’s 
+decision to accept the risk, is disclosed. To withhold information relevant to the insurer’s 
+decision to insure a loan could make the insurance policy invalid and jeopardise Firstmac’s 
+position. 
+Firstmac will not allow any loan to settle where the LMI undertaking has any approval condition 
+outstanding. 
+ 
+ 
+
+ 
+11 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+6.1 When LMI is required 
+Loan applications with any of the following features are required to be mortgage insured prior 
+to final approval: 
+• Any loan where LVR exceeds 80% that does not meet LRF eligibility criteria 
+• Any construction loan where LVR exceeds 80% 
+• Any additional or further advances to existing loans which are: 
+o currently mortgage insured; or 
+o currently non-lmi and no longer eligible for non-lmi 
+(note – LMI premium will be calculated on the new total loan amount) 
+• Any loan application where mortgage insurance is considered appropriate by Firstmac, 
+regardless of the LVR  
+6.2 LMI Premium 
+Current LMI premium calculators / rates are available on the Firstmac website. 
+Firstmac will not be responsible for any premium where any third party has incorrectly quoted 
+or advised a borrower that no premium is payable by the borrower. 
+Firstmac will pay the LMI premium on: 
+• New loans where LVR < 80% and total loan amount does not exceed $1,000,000 
+• Additional advances or further advances against a security that is held for a loan that is 
+currently mortgage insured, provided the increase amount is > $25,000, LVR remains 
+below 80% and total loan amount does not exceed $1,000,000. 
+Where a borrower seeks a variation to a loan which is currently mortgage insured after it has 
+settled, other than an increase to the loan amount, any LMI premium or administration fee 
+charged by a Lender's Mortgage Insurer is always payable by the borrower, regardless of 
+whether or not the borrower was required to pay the premium on the original loan.  
+7 Borrowers, guarantors, and mortgagors  
+It is a requirement of the National Credit Code (NCC) that a mortgage cannot be taken from 
+anyone other than a borrower or a guarantor. Borrowers and guarantors can be individuals, 
+corporations or trusts (family, discretionary & unit trusts only).  
+Excluded borrowers and Guarantors are Limited liability companies, Associations, Churches, 
+Clubs and minors (persons under the age of 18).  
+ 
+ 
+ 
+
+ 
+12 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+7.1 Maximum Borrower exposure 
+The maximum exposure to any one borrower is up to $3 million.  
+Exposures above this amount may be considered on an exceptional, case by case basis. Any 
+such exceptions where supported by Firstmac Credit, may require Lender’s Mortgage Insurance 
+on all, or part of the total exposure. 
+7.2 Age of borrower / guarantor  
+Firstmac does not discriminate against borrowers on the basis of age however, Firstmac does 
+not lend to or accept guarantees from persons under the age of 18. 
+The age of any borrower / guarantor at the end of the loan term is not to exceed 90 years of 
+age. The requested loan term may be reduced to meet this requirement, refer policy section 
+Loan Term for details of minimum and maximum loan terms available. 
+7.3 Borrowers approaching retirement age 
+Where a borrower is > 50 years of age or older at the time of application, and the loan term 
+exceeds the borrower’s deemed retirement age of 67 years, consideration must be given to the 
+borrower’s exit strategy ie how the loan will be serviced, or repaid, when the income from 
+employment ceases. 
+An exit strategy should take in to consideration the borrower’s remaining time in the 
+workforce, their age at the end of the proposed loan term, their ability to continue servicing the 
+loan, or repay the loan in full without incurring substantial hardship post retirement. 
+7.3.1 Obtaining the exit strategy 
+The exit strategy should come from the borrower and is to be retained on the loan file as 
+follows: 
+• Borrower age 60 or younger at application   
+o Broker to discuss the exit strategy with the borrower & provide detailed notes to 
+Firstmac by email, or a written statement from the borrower to be retained on 
+the loan file. 
+• Borrower age 61 or older at application 
+o The exit strategy must be from the borrower. 
+o It can be by email (direct or via the Broker) and is to be retained on the loan file. 
+• Borrower age 70 or older at application 
+o As for borrower age 61 or older, plus independent legal advice required. 
+7.3.2 Exit strategy options & details to be obtained 
+Below are some examples of what information might be included in an exit strategy, however it 
+is not required to specifically reference answers to all of the questions posed below. For 
+example, stating an intention to sell an investment or other asset post retirement does not 
+
+ 
+13 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+require a specific date, or expected amount to be realised from the sale. The reasonableness of 
+an exit strategy can be assessed using the total assets and liabilities provided by the borrower, 
+and current asset values. 
+Example: 
+Propose to repay the loan prior to retirement other than selling the property 
+• 
+Does the borrower have sufficient income / savings / identified source of funds? 
+Selling an owner-occupied property being funded  
+• 
+When does the borrower plan to sell? 
+• 
+Does the borrower have a reasonable plan for accommodation after sale? 
+• 
+At the time of the planned sale, will the likely equity position mean the borrower can pay 
+the outstanding balance of the loan? 
+ Selling an investment property being funded 
+• 
+When does the borrower plan to sell? 
+• 
+At the time of the planned sale, will the likely equity position mean the borrower can pay 
+the outstanding balance of the loan? 
+Selling another investment property / other asset 
+• 
+What does the borrower plan to sell? 
+• 
+When does the borrower plan to sell it?  
+• 
+At the time of the planned sale, will the likely equity position mean the borrower can pay 
+the outstanding balance of the loan? 
+Using income from other investments to make a lump sum repayment in full 
+• 
+Will the likely proceeds from the other investments be sufficient to pay the outstanding 
+balance of the loan?  
+Plan to convert the property being funded to an investment property in the future 
+• 
+When does the borrower plan to convert the property to investment? 
+• 
+At the time of the planned conversion, will the like rental income be sufficient to make 
+the repayments under the loan? 
+Using superannuation to continue to pay down / off the loan 
+• 
+Are the superannuation benefits sufficient to meet the borrower’s ongoing financial 
+needs plus the repayments under the loan? 
+Using savings to continue to pay down / off the loan 
+• 
+Are the savings sufficient to meet the borrower’s ongoing financial needs plus the 
+repayments under the loan? 
+ 
+
+ 
+14 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Other (for example, co-borrowers income)  
+• 
+Collect full details of proposed exit strategy 
+7.4 Joint borrowers  
+Where there are joint borrowers it is important to ensure that: 
+• No borrower is acting under the duress of another 
+• All borrowers receive a benefit from the loan  
+• All borrowers are fully informed with regard to all aspects of the loan  
+7.5 Borrowers of convenience 
+A “borrower of convenience” is defined as a borrower that is added to the loan application to 
+provide serviceability and/or security but does not receive a tangible benefit from the loan 
+transaction.  
+Borrowers must have a beneficial interest in the loan transaction either by way of joint 
+ownership of the security and/or dependence on the mortgagor in a marital / defacto 
+relationship. 
+It is not acceptable for a person to be joined in a loan simply to provide income support for 
+servicing, or simply to provide added security for another party to purchase a property. 
+7.6 Third party mortgages/guarantees 
+Firstmac will consider loans that are supported by a third party security where the borrower 
+and mortgagor are common law spouses. 
+Examples of acceptable third party mortgages: 
+Borrower  
+Mortgagor / Guarantor 
+A & B Smith 
+A Smith (or B Smith) 
+A (or B) Smith  
+A & B Smith 
+A Smith  
+B Smith 
+ 
+Independent legal advice is to be obtained by the third party borrower / mortgagor in the 
+following cases: 
+Investment property as security: 
+• All loans structured with Borrower: A Smith and Mortgagor/guarantor: B Smith 
+• Refinance – where the structure of the new loan is not the same structure held with the 
+outgoing lender, regardless of the new structure. 
+• Purchase – all loans, regardless of the structure. 
+ 
+
+ 
+15 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Owner occupied property as security: 
+• All loans structured with Borrower: A Smith and Mortgagor/guarantor: B Smith 
+• For all other owner occupied property structures, independent legal and financial advice 
+is not mandatory, but will be recommended in the loan agreement. The third party 
+borrower / mortgagor (guarantor) may choose not to obtain the advice, by 
+acknowledging as follows:  
+o Third party Borrower – Borrower Certification form issued with loan 
+documentation must be completed to reflect advice not being obtained; 
+o Third party Mortgagor (Guarantor) – the Guarantor loan documentation pack 
+will include the relevant certificates to be completed when advice is obtained, 
+however, will also include a Waiver Declaration for the Guarantor to sign should 
+they choose not to obtain independent advice. 
+7.6.1 Corporate borrowers 
+Loans to corporate borrowers must be supported by the unlimited joint and several guarantees 
+of the company director/s, unless waived by Firstmac (and the Mortgage Insurers, if applicable) 
+e.g. nominal directors will not normally be required to provide a guarantee. 
+Where a loan is to an individual/s who own/s a company, and the servicing of the loan is 
+dependent upon the income derived from that company, the guarantee of the company must 
+be obtained.  
+7.7 Trust borrowers 
+Loans to trusts (family, discretionary & unit trusts only) are to be provided to both the trust and 
+the trustee/s in their own right. Where the trustee is a company, the unlimited joint and several 
+guarantees of the directors of the trustee company is required.  
+In order to reduce the risk of challenges to the validity of guarantees, guarantors are required 
+to obtain independent legal advice regarding the provision of a guarantee. In certain 
+circumstances Firstmac may consider waiving this requirement e.g. sole trader company.  
+Loans to Trustee/s of a Self-Managed Super Fund (SMSF) may be considered, refer to section 
+Self Managed Super Funds (SMSF) for specific requirements. 
+7.7.1 Hybrid Trusts  
+Hybrid trusts are a combination of discretionary and unit trusts which are generally very 
+complex and tax driven. The loan structure required to gain the benefit of the trust and the 
+inability to identify the beneficiaries of any cash flow make them unsuitable borrowers. 
+Firstmac does not lend to hybrid trusts. 
+7.8 Non-English speaking borrowers  
+Firstmac will lend to non-English speaking borrowers, however they must employ the services 
+of a qualified, independent and professional translation service and provide a certificate 
+verifying the documents have been independently translated. A template of an acceptable 
+certificate is available from Firstmac.  
+
+ 
+16 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+7.9 Powers of Attorney 
+Firstmac does not accept loan applications or legal documents, signed under power of attorney 
+except in the case of corporate borrowers. Where the borrower is overseas, special 
+arrangements can be made for the delivery and execution of documents subject to a business 
+case being put to Firstmac. 
+8 Non-resident borrowers  
+For the purposes of these guidelines, a non-resident is deemed to be: 
+• Any person who resides and is employed in Australia, who does not have permanent 
+residency status in Australia 
+and / or 
+• Any person who resides and is employed in another country.  
+Applications for loans (including Additional & Further Advances), will only be considered for 
+Australian or New Zealand citizens, who are living and working overseas. 
+Australian or New Zealand citizenship is to be confirmed by certified copy of Australian or New 
+Zealand passport. 
+Standard policy (ie not ‘non-resident’) can be applied to: 
+• Applicants who are Australian or New Zealand citizens living & working in New Zealand; 
+• Applicants living and working in Australia who are not Australian or New Zealand 
+citizens, provided at least one of the applicants holds permanent residency status (to be 
+confirmed by certified copy of passport and Visa Entitlement Verification Online 
+(VEVO)). The applicant without permanent residency status must be the common law 
+spouse of the applicant who is an Australian or New Zealand citizen, and must hold an 
+appropriate partner visa. 
+• Applicants who are living and working in Australia where one applicant only is an 
+Australian or New Zealand citizen, provided the ‘non-citizen’ applicant is a common law 
+spouse of the applicant who is an Australian or New Zealand citizen and holds 
+appropriate partner visa. 
+Applicants should be considered high net worth clients with a strong net asset and cash flow 
+position. 
+Non-resident self-employed, overseas company or business borrowers, companies or trusts in 
+Australia where directors / trustees are living & working overseas, or non-resident guarantors 
+are not acceptable. 
+Cash out / equity release is not available. 
+Other restrictions for lending to non-resident borrowers may be imposed by Firstmac from time 
+to time. 
+
+ 
+17 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+8.1.1 Maximum loan amount / LVR 
+Refer Maximum LVR & Loan Amounts by Postcode location. 
+8.1.2 Income & Employment - PAYG 
+The standard income and employment policies apply to non-resident borrowers. In addition, 
+acceptable income evidence should also be translated into English and converted to Australian 
+dollars at current exchange rate. 
+Maximum of 90% of overseas sourced income (converted to Australian dollars) may be used for 
+assessing serviceability.  
+8.1.3 Serviceability 
+Standard Serviceability calculations are to be used (refer Loan serviceability calculation), 
+including living expenses, and all ongoing commitments/expenses (including those incurred 
+overseas). 
+8.1.4 Additional requirements 
+• Where applicable, written evidence of Foreign Investment Review Board (FIRB) approval 
+is required 
+• Non-resident borrowers must have a bank account with an Australian bank in Australia 
+into which rental payments are made and from which loan repayments can be drawn. 
+An offset sub-account with the new loan will be sufficient to meet this requirement. 
+9 Credit reports 
+A Credit report through Equifax must be obtained for each borrower and guarantor (individuals 
+& companies). Where the borrower is a trust, a credit report for the trust is not applicable 
+however a credit report on each trustee is required.  
+The credit report obtained must be a comprehensive credit report that includes the Equifax 
+score, and for individuals, must include both consumer & commercial details.  
+The Credit report can only be performed when a Privacy Act Authority is held for that person or 
+entity. Originator/Mortgage Managers must ensure every borrower and guarantor has provided 
+consent via a fully completed Privacy Act Authority prior to obtaining a credit report and/or 
+submitting an application to Firstmac.  
+Substantial penalties apply to both individuals and companies for misuse of the Credit reporting 
+system under the provisions of the Privacy Act. 
+A Credit Report issued within the last 90 days should be held at time of final credit assessment 
+by Firstmac. 
+9.1 Reviewing Credit Reports 
+All Credit reports must be reviewed to determine the age of the credit file, the Equifax score, 
+and identify any possible match files, directorships / business names, or adverse listings. 
+
+ 
+18 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+All financial details in the credit report must be reviewed including ‘Credit enquiries’ and 
+‘Accounts & repayments’ (comprehensive credit reporting data provided by contributing credit 
+providers), and compared to the borrower stated liabilities. 
+9.2 Age of credit report 
+Where an Equifax Credit file is new, or created within the last 6 months, additional steps should 
+be taken to reconfirm the borrower’s full personal details and confirm their identity. Further 
+discussion with borrower may be required to determine the reason for the new credit file.  
+If the borrower is likely to have an existing credit file eg has other credit facilities, or recent 
+change of name, additional checks are to be completed to locate that existing credit file. 
+9.3 Multiple names or a ‘possible match’ 
+There may be instances where a borrower has more than one name eg following marriage, or 
+divorce. If the borrower has more than one Equifax file number, a credit check on all Equifax file 
+numbers should be conducted.  
+There are occasions where a ‘possible match’ is identified by Equifax. Further investigation 
+should be conducted to determine if the ‘possible match’ is the borrower, and if so, obtain a 
+credit report on the ‘possible match’ file. 
+9.4 Directorships on individual’s credit report 
+Where an individual borrower or guarantor credit report shows they are a current director of a 
+company, and the company is a source of income needed for serviceability, a credit report is 
+required that company. 
+Reports are not required for a company where: 
+• the individual is noted as a previous director;  
+• no reliance on income from the company to support serviceability (unless there are 
+indications the company may have adverse credit history). 
+Where a current directorship is shown on credit report, and the company is not a source of 
+income needed for serviceability, enquiries should be made to confirm the trading status of the 
+company.  
+Verbal or written (eg email) confirmation should be obtained from the Borrower stating the 
+company is able to meet all commitments & expenses from its own cash flow and without 
+reliance on their individual income. If it is confirmed that the individual is supporting the 
+company commitments from their current employment income, this will need to be taken into 
+account when assessing serviceability. 
+9.5 Review of previous enquiries on Equifax credit report 
+High volume of credit enquiry may indicate greater likelihood of an unfavorable event, such as a 
+default, being recorded on a credit file. 
+
+ 
+19 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Each Equifax credit report is to be reviewed to identify any undisclosed or under disclosed 
+debts, by comparing details of the credit report against Assets & Liabilities statement on the 
+loan application. Unmatched loans details are to be investigated / discussed with the borrower. 
+Loans requiring LMI – regardless of the Equifax Score, as a minimum, all credit enquiries within 
+the last 12 months are to be queried and compared against Assets & Liabilities statement on 
+the loan application. Unmatched enquiries are to be investigated / discussed with the 
+borrower. A notation is to be made for each enquiry listed, confirming the outcome of the 
+enquiry. Where an application has not proceeded, or been declined, the reason is to be 
+provided. 
+9.6 Credit History 
+Firstmac considers borrowers with any history of financial defaults (ie default listed by a credit 
+provider), non-financial defaults that do not meet the criteria below, court writs, petitions, and 
+bankruptcies, to be high risk and the application will be declined.  
+Non-financial defaults (ie default list by telco or utility provider only) may be considered subject 
+to: 
+• Default was not listed by a financial institution (ie will only consider Telco / Utility); and  
+• Default amount does not exceed $1,000; and 
+• Credit report is updated to show default as paid, or evidence the default is paid in full 
+from the lister; and 
+• A reasonable explanation is provided in writing from borrower detailing the 
+circumstances 
+9.7 Ban period 
+Individuals may request Equifax to place a Ban Period on their credit file due to concerns 
+regarding fraud. Where a credit report is attempted on a credit file with a current Ban Period, 
+Equifax will return a message indicating a ban is in place and the credit report will not be 
+provided. A loan assessment cannot be completed until the ban period ends and a complete 
+credit report is received. 
+10 Employment and income 
+Employment should be considered ongoing and stable. The following table describes the types 
+of employment and minimum term that is acceptable.  
+While consideration may be given to applicants with short term current employment, and / or 
+applicants on probation, the type of employment and reasons for recent employment change 
+needs to be investigated to mitigate and support acceptance. 
+ 
+ 
+
+ 
+20 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Type of employment Requirements 
+Permanent full time 
+/ part time / contract  
+• Minimum 6 months with current employer; or  
+• If < 6 months with current employer, minimum 12 
+months continuous in same occupation & industry 
+Probation period 
+Application may be considered if the borrower has 12 
+months continuous employment, in the same occupation 
+type and industry 
+Casual (PAYG) 
+• Minimum 6 months with current employer, with at 
+least 12 months continuous in same occupation & 
+industry 
+Second job (PAYG) 
+• Minimum 12 months with the ‘second’ employer with 
+2 jobs held concurrently over that period 
+Self-employed* 
+Minimum two (2) years trading in the current business. 
+• Specific Firstmac DLA Discretion - exception may be 
+considered on case by case basis where a borrower has 
+only 12 months trading in the current business and 2 
+years in previous employment with similar occupation 
+or field 
+ 
+*An individual is considered self-employed when they receive the majority (i.e. more than 50%) 
+of their income, including wages, from a business:  
+• in which they are the sole trader, a partner, director or shareholder; and  
+• where they have management control of the company 
+Example: 
+A husband and wife running their business through a company structure and paying themselves 
+wages from that business are considered self-employed, although, technically, they are PAYG 
+income earners by virtue of the fact that they receive wages. However, because they are the 
+owners of the business and have management control of the company, they are considered 
+self-employed.  
+Applicants are considered self-employed if they are engaged as:  
+•  sub-contractors (common in the building and transport industries)  
+•  professional consultants (common in the IT and Professional Services industries)  
+•  operate a company structure in which they are “employed”  
+
+ 
+21 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+10.1 Income verification 
+10.1.1 PAYG applicants 
+PAYG borrowers must provide satisfactory evidence to support the income stated in the 
+application. 
+Primary income verification is to include: 
+• 2 consecutive payslips to confirm income and employment, with the most recent 
+payslip being no more than 4 weeks old. Payslips should be computer generated 
+showing borrower name, employer’s name and ABN, current salary/wage and year-to-
+date earnings; and 
+• For loans with LVR > 80% – 1 month’s bank statement clearly showing salary / wage 
+credits from the employer (an internet transaction history may be acceptable provided 
+it clearly shows the account owner name, full account number, bank details etc); and 
+• Where serviceability is reliant on additional income from employment such as overtime, 
+allowances, bonuses, or commission, the most recent financial year Tax Ready ATO 
+income statement or PAYG summary is required.  
+Secondary income verification – if the Primary income verification is not available or does not 
+meet the criteria (eg payslips are handwritten), alternative verification document types may be 
+considered: 
+• 3 months bank statements clearly showing salary paid by employer (an internet 
+transaction history may be acceptable provided it clearly shows the account owner 
+name, full account number, bank details etc); or 
+• The most recent previous financial year Tax Ready income statement or PAYG Summary 
+from current employer; and 
+• A letter from the employer that is on company letterhead and contains details of gross 
+annual income, (identifying any base income separately), role or position, length of 
+employment, the basis of employment (full or part time, or casual) and breakdown of 
+the salary package (if applicable) 
+Firstmac must be satisfied that the employer is a legitimate business or company, for example 
+by checking that the employer’s stated ABN is correct and current. These details are publicly 
+available from the Australian Business Register website http://www.abr.gov.au. 
+10.1.2 PAYG employment in family owned or controlled business 
+Where the borrower(s) is employed by family, or through a family owned or controlled 
+business, the following income verification is required: 
+• 2 most recent consecutive payslips; and / or 
+
+ 
+22 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• 3 months bank statements clearly showing salary paid by employer (mandatory for 
+loans with LVR > 80%); an internet transaction history may be acceptable provided it 
+clearly shows the account owner name, full account number, bank details etc; and 
+• the most recent previous financial year Tax Ready ATO income statement; or, if 
+employment commenced in current financial year, the current financial year’s YTD 
+Income statement should be obtained. 
+10.1.3 Self-employed applicants / companies / trusts 
+Self-employed individuals and company borrowers are required to demonstrate and provide 
+evidence that they have been self-employed and trading in the same or current business for at 
+least 2 years, to be verified by a valid ABN registered for GST (unless legitimately exempt) and 
+other documentation satisfactory to Firstmac. 
+Self-employed borrowers not meeting the criteria in section Self-employed individuals paying 
+self PAYG, and company or trust borrowers, must provide: 
+• The most recent two (2) financial years full personal tax returns, with corresponding 
+ATO Tax Assessment Notices; and either 
+•  The most recent two (2) financial years: 
+o full business tax returns; or  
+o full financial statements for the business including balance sheet and profit & 
+loss statements, signed by the borrower’s Accountant 
+Where LMI is required, all self-employed individual and company or trust borrowers must 
+provide: 
+• The most recent two (2) financial years full personal tax returns, with corresponding 
+ATO Tax Assessment Notices; and 
+•  The most recent two (2) financial years full business tax returns.  
+The documents provided should be reviewed to ensure the Accountant’s details are clearly 
+stated on the documents; the applicant has a valid ABN registered for GST (unless legitimately 
+exempt). ABN details are publicly available from the Australian Business Register website 
+www.abr.gov.au. 
+In all cases, the most recent tax returns / financials should be no more than 18 months old, 
+regardless of when the lodgement of tax returns is due ie tax returns at 31 December, should 
+be no older than financial year end 30 June of the previous year. 
+10.1.4 Self-employed individuals paying self PAYG 
+Self-employed borrowers who pay themselves PAYG from own company / trust, and meet the 
+below eligibility criteria, need only provide the standard documentation for a PAYG borrower 
+(refer section PAYG Applicants). 
+ 
+
+ 
+23 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Eligibility criteria: 
+1. Loan in individual/s name 
+2. Self-employed borrower paying themselves PAYG wage / salary, with payslips available 
+& / or salary credits clearly shown on bank statement 
+3. Employment category is one of the following: 
+a. Accounting 
+b. Architect (new category in Justice, coming soon) 
+c. Consulting & Corp. Strategy 
+d. Education & Training 
+e. Engineering 
+f. Government/Defence 
+g. HR & Recruitment 
+h. I.T. & T. 
+i. Legal 
+j. Medical & Dental 
+k. Science & Technology 
+l. DLA Discretion to accept other employment categories not listed above where all 
+other criteria is met. 
+Where other business income such as dividends, trust distributions etc is required to support 
+the individual applicant’s serviceability, or LMI is required, standard documentation referred to 
+in section Self-employed applicants / companies / trusts is to be obtained. 
+10.1.5 Age of income documents (PAYG) 
+Income documents provided with an application that meet the standard condition 
+requirements, can be relied on for final approval up to 90 days from the “Application Loaded” 
+date shown in VX / Justice.  
+• If final approval has not been issued within 90 days from the “Application Loaded” date, 
+Borrower confirmation there has been no changes to the information provided in the 
+original application can be obtained in lieu of updated documents. This will be 
+considered valid for a further 90 days. 
+• If final approval has not been issued within 6 months of the “Application Loaded” date, 
+an updated application form and supporting documentation is required. 
+Where any Borrower’s employment and / or income details have changed, the new 
+employment and / or income details must be provided with documentation to support that 
+change eg if Borrower changed jobs, details of new employment and evidence of current 
+income is to be provided. 
+
+ 
+24 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+10.2 Verification of employment 
+10.2.1 PAYG applicants 
+A borrower’s employment is considered to be verified where satisfactory income verification 
+documentation has been provided to support income used for serviceability (as per section 
+Income verification). 
+10.2.2 Self-employed – employment verification 
+A self-employed borrower’s income is considered to be verified where satisfactory 
+documentation to support income has been provided, as per section Self Employed applicants / 
+companies / trusts or Self-employed individuals paying self PAYG. 
+Where documentation provided is not considered satisfactory, or requires clarification of 
+anomalies identified, borrower’s accountant may be contacted to verify the details of the 
+documentation provided. Details verified should be recorded on file and / or on Borrower 
+Employment & Income Verification form.  
+11 Acceptable income types 
+11.1 Acceptable sources of income 
+The following is a guide to acceptable income for Firstmac for the purpose of calculating debt 
+service capacity.  
+For loans requiring LMI, the requirements of the mortgage insurer must also be observed 
+whether they are consistent with provisions in this policy or not. 
+Income type 
+Max % allowable 
+for servicing 
+Guidelines & Requirements 
+PAYG Salary and wage 
+– base income for full 
+time, part time, 
+contract (PAYG) 
+100% 
+(90% for non-
+residents and for 
+any acceptable 
+foreign sourced 
+income) 
+Gross salary, net of superannuation. 
+If short term contract, copy of current Contract and / or 
+most recent financial year PAYG Summary may be 
+required. 
+Casual / Second job – 
+base income 
+100% 
+Gross salary, net of superannuation, annualised over 48 
+weeks.  
+Payslips provided should show minimum 6 months YTD 
+income. Where the payslip provided does not show YTD 
+earnings, or the YTD covers a period less than 6 months, 
+the ‘Tax Ready’ PAYG income statement for the prior tax 
+year should be provided. Alternatively, the last payslip for 
+the prior tax year issued by current employer may be 
+acceptable, provided it shows YTD income. The actual 
+commencement date of current employment may be 
+
+ 
+25 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+needed to ensure the most accurate serviceability result 
+is achieved. 
+Salary sacrifice / 
+packaging, deductions 
+(addback) 
+100% 
+Non-compulsory regular pre-tax deductions such as salary 
+sacrifice arrangements shown on payslips (e.g. non-
+compulsory superannuation payments, loan repayments, 
+or other living expense repayments), can be added to 
+taxable income if needed to support serviceability.  
+Where an ATO income statement or PAYG Summary is 
+used to determine income for serviceability, 53% of the 
+reportable fringe benefits amount linked to salary 
+sacrifice arrangements shown can be added to gross 
+payments amount.  
+Loan commitments associated with the salary sacrifice 
+must be shown as an ongoing liability. 
+Other common non-compulsory deductions such as social 
+club fees, union fees etc may also be added back to gross 
+income. 
+Overtime / Shift and 
+other allowance 
+100% 
+Must be regular over minimum of last 12 months and / or 
+a condition of employment. 
+Most recent financial year Tax Ready ATO income 
+statement or PAYG Payment Summary required to 
+support.  
+Where overtime/allowance is not a condition of 
+employment and / or is not considered regular or typical 
+for the employment type / industry, % adopted may be 
+reduced.  
+Commission / Bonus 
+100% 
+100% may be considered for servicing provided it is a 
+permanent part of income and must be evidenced by: 
+• 
+payslips; and  
+• 
+most recent financial year Tax Ready ATO income 
+statement or PAYG Payment Summary.  
+Car Allowance 
+100% 
+Must be a permanent part of income; must be evidenced 
+by payslips and is to be shown as taxable income. 
+Where applicable, corresponding car loan / lease 
+payment must be shown as an ongoing liability. 
+Fully maintained car 
+N/A 
+Up to $5,000 pa added to gross income, provided the 
+fully maintained company car is part of the employment 
+contract / conditions. Vehicle must be fully maintained by 
+the employer (e.g. insurance, registration, running costs, 
+etc.) with no restrictions on personal use; to be 
+evidenced by letter from employer. 
+
+ 
+26 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Parental leave income 
+(employer or 
+government paid) 
+100% 
+Lower of (a) parental leave income being paid or (b) 
+return to work income, can be used for serviceability 
+provided the borrower is returning to work for the same 
+employer, income is currently being paid, and will 
+continue to be paid until the applicant’s return to work 
+date. 
+Child care expenses that will apply upon return to work 
+must also be included in the declared living expenses. 
+All details to be confirmed by employer in writing, 
+including: 
+• 
+Employer acknowledging the borrower’s 
+intention to return to work 
+• 
+Details of the income paid during parental leave 
+period 
+• 
+Return to work date, employment status (i.e. full 
+time or part time and hours) & income. 
+Firstmac Credit discretion – where the return to work 
+income is higher than parental leave income & is required 
+to support serviceability; and / or there is a gap between 
+the current income received ceasing & return to work 
+date; the return to work income can be considered 
+provided return to work date is not more than 60 days 
+after date of settlement, and borrower has sufficient 
+savings to cover any shortfall on all post settlement 
+commitments and declared living expenses 
+Self Employed (non-
+PAYG) Individual 
+borrowers and 
+Company borrowers  
+100% of most 
+recent year’s 
+taxable income, or 
+120% of the 
+previous year’s 
+taxable income, 
+whichever is 
+lower. 
+Minimum of the last two (2) years income should be 
+considered when assessing serviceability.  
+Current ABN to be provided to confirm self-employment 
+(2 years minimum term of registration). 
+If income has varied by +/- 20% or more over the last 2 
+years, the reason for the variation should be noted and 
+taken in to consideration when assessing income relied 
+on for serviceability. 
+Net Profit Before Tax (NPBT) is used for serviceability 
+where the Company is the borrower.  
+For loans to individuals, the assessment of the company / 
+business income is to ensure the company is trading 
+profitably & can continue to meet ongoing commitments, 
+including the income paid to the individual borrower that 
+is relied on for serviceability eg dividends; directors fee; 
+etc. Company NPBT is not relied on for serviceability of a 
+loan in the individual’s names. 
+
+ 
+27 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Allowable Add-backs 
+In certain cases, some expenses may be added-back to 
+the NPBT: 
+• 
+Director’s income/salaries (where not already 
+included in calculations); 
+• 
+Director’s superannuation contributions in excess 
+of the SGC (Superannuation Guarantee Charge) 
+applicable for that year; 
+• 
+Business depreciation to a maximum of 20% of 
+total assessable income.  
+• 
+Interest charges on loans being refinanced; 
+• 
+Non-recurring expenses (may need to be 
+confirmed by accountant where financial 
+statements do not clearly identify as a non-
+recurring expense) 
+Self-funded retirees / 
+Superannuation 
+ 
+100% 
+Superannuation payments such as allocated pension or 
+similar.  
+Current payment amount being received to be used for 
+serviceability, evidenced by 3 months bank statements 
+clearly identifying the source of the payment & 
+confirming regular receipt; or a Statement from the 
+provider no older than 3 months confirming the payment 
+/ benefit amount. 
+Investment income  
+Interest – 100% 
+Dividends – 80% 
+Acceptable provided income is assessed as being 
+reasonably sustainable over the long term. 
+Use the lower investment income figure from the 2 most 
+recent years tax returns, provided: 
+• 
+The current investment value is consistent with 
+the investment value held for the period of the 
+tax returns; and 
+• 
+Investment is still held in Borrower’s name at the 
+time of application, evidenced by shareholding 
+statement; or investment statement  
+Note - franking credits are not to be included in the 
+amount used for serviceability. 
+ 
+ 
+
+ 
+28 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Government benefits 
+and pensions (eg 
+Family Assistance Part 
+A&B; Pension; 
+Disability / Carer’s 
+allowance; Veteran 
+Affairs pension)  
+ 
+100% 
+Payment must be considered ongoing for next 5 years at 
+the time of application, evidenced by: 
+• 
+3 months bank statements clearly identifying the 
+source of the payment & confirming regular 
+receipt; or 
+• 
+Letter from paying authority (eg Centrelink) 
+issued within the last 3 months 
+Note: 
+• 
+Carer’s payment / allowance – only considered if 
+paid for care of the borrower’s spouse or child 
+(including adult child). 
+• 
+Family Assistance Part A & B – only considered for 
+borrower’s dependent children who are 10 years 
+of age or younger. Annual payments considered 
+with Centrelink letter stating annual payment, tax 
+return and ATO NOA from same year required to 
+ensure consistent with income assessed for this 
+loan application. 
+• 
+Parenting payment – age of dependent child is 
+based on payment type; only considered as 
+follows: 
+o Single parenting payment – youngest 
+child is 8 years of age or younger; 
+o Partnered parenting payment youngest 
+child is less than 1 year old 
+Child Support 
+(non-taxable income) 
+100% 
+Child support & maintenance agreement must be 
+registered with Child Support Agency (CSA) and payment 
+is considered to be ongoing for the next 5 years (ie 
+dependent children 12 years of age or younger at the 
+time of application), evidenced by: 
+• 
+Current letter or notice of assessment from Child 
+Support Agency including amount payable, 
+names and date of birth of each eligible child; and 
+/ or 
+• 
+3 consecutive months bank statements clearly 
+identifying the source of the payment and 
+confirming regular receipt 
+Private child support arrangements are not an acceptable 
+income source for serviceability.  
+ 
+ 
+
+ 
+29 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Rental income – 
+residential property 
+Up to 80% 
+If multiple sources of evidence are provided, higher 
+actual rent received may be used if the property is rented 
+through a real estate agent with a copy of a current 
+tenancy agreement or rental statements provided. 
+Otherwise, the lowest rental amount should be used. 
+% of rental income used for serviceability may be 
+reduced, or excluded from serviceability, where the 
+rental income is considered volatile (eg student 
+accommodation; inflated rent due to lack of rental 
+property in an area; reduced rent due to oversupply of 
+rental property in an area; local economy influenced by 
+mining industry; etc). 
+Residential property: 
+• 
+80% of confirmed gross rental income for a 
+standard residential tenancy 
+• 
+65% of confirmed gross rental income for short 
+stay / holiday rental (eg Airbnb; Stayz etc) 
+Rental income to be evidenced by: 
+• 
+valuation report (for security property); or 
+• 
+most recent rental statements or current lease 
+agreement from real estate agent managing the 
+property; or 
+• 
+3 months bank statements clearly identifying the 
+rental credits (if privately managed and credits to 
+bank account do not clearly identify the rental 
+payment, current tenancy agreement & most 
+recent tax return including rental schedule); or 
+• 
+most recent tax return; or 
+• 
+rental appraisal from local independent real 
+estate agent (where property being purchased, or 
+not previously rented).  
+Where the Borrower is moving out of their current 
+owner-occupied property to ‘board’ or ‘live with parents’, 
+and serviceability is reliant on new rental income and / or 
+investment loan interest addback from previously owner-
+occupied property, rental income for that property is to 
+be evidenced by: 
+• 
+tenancy agreement through an agent that has 
+already commenced (or due to commence within 
+30 days of settlement); or 
+
+ 
+30 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• 
+privately managed tenancy agreement + 3 
+months bank statements showing the rental 
+credits. 
+Rental income – 
+commercial property 
+Up to 70% 
+Up to 70% of Gross rental for commercial property may 
+be considered where evidence provided confirms ongoing 
+lease in place.  
+If the actual net rental amount (ie gross rental less 
+expenses, excluding depreciation / interest shown in tax 
+return) is less than 70% of gross rental, the lower figure 
+should be used. 
+% of rental income used for serviceability may be 
+reduced, or excluded from serviceability, where the 
+rental income is considered volatile (eg local economy 
+influenced by mining industry; etc). 
+Rental income – 
+‘granny flat’ 
+Up to 80% 
+Up to 80% of Gross rental for ‘granny flat’ considered 
+where evidenced as follows: 
+Existing rental income from existing granny flat: 
+• 
+If managed by independent real estate agent, 
+recent rental statements; or 
+• 
+If managed by owner, current tenancy agreement 
+and credits to bank account clearly identifying the 
+tenant / rental payment being made over min 3 
+months. If credits to bank account not available / 
+do not clearly identify the rental payment, 
+current lease agreement and most recent tax 
+return including rental schedule. 
+• 
+If property taken as security and full valuation 
+required, Valuer to show separate granny flat 
+income in valuation report. 
+New granny flat / not previously rented – property taken 
+as security: 
+• 
+New construction of granny flat on property 
+taken as security: 
+o Valuer to show separate granny flat 
+income in valuation report 
+• 
+New purchase with existing granny flat: 
+o If currently leased – details of rental 
+income to be provided (eg current 
+tenancy agreement or current tenancy 
+details shown in COS); Valuer to show 
+
+ 
+31 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+separate granny flat income in valuation 
+report 
+o If not currently leased – Valuer to show 
+separate granny flat income in valuation 
+report 
+• 
+If AVM or Desktop valuation completed, rental 
+appraisal from local independent real estate 
+agent should be provided 
+New granny flat – property NOT taken as security: 
+• 
+Proposed rental income not be relied on for 
+serviceability 
+Investment loan 
+interest add back – 
+Investors 
+100% 
+Add-back of deductible interest paid on investment home 
+loans (excludes overseas investment home loans), 
+calculated at a specified maximum rate as determined by 
+Firstmac (auto calculated in Firstmac Servicing 
+Calculator). 
+The investment loan amount used to calculate the add-
+back is to be based on: 
+• 
+Refinance – the loan amount being refinanced 
+that is for residential investment purposes, 
+including investment purchase costs originally 
+capitalised into the loan. 
+• 
+Purchase – all borrowed funds used for the 
+investment property purchase, including 
+investment purchase costs capitalised into the 
+loan.  
+• 
+Ongoing residential investment loans with other 
+lenders – total loan amount in Assets &Liabilities 
+statement. 
+Unacceptable Income 
+type 
+ 
+ 
+The following income or similar sources are not 
+acceptable for serviceability: 
+• 
+Government benefits or similar, not considered 
+ongoing for 5 years 
+• 
+Government unemployment benefits; youth or 
+student allowances etc 
+• 
+Workers Compensation 
+• 
+Income from boarders 
+• 
+Undeclared or cash income that could not be 
+evidenced in tax returns 
+
+ 
+32 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+12 Confirmation of debts 
+12.1 Non-disclosure of debts  
+Non-disclosure of debt may sometimes be identified when investigating credit report enquiries, 
+or other supporting documentation provided 
+Non-disclosure of debts should be viewed on an individual basis, as sometimes they are a 
+genuine oversight, however non-disclosure of debts may result in the loan being declined or an 
+approval being withdrawn.  
+12.2 Current debt position  
+Mortgage loans should be listed individually on the asset and liability statement identifying 
+property address, lender, loan amount and repayments.  
+Line of Credit Facilities, Personal Loans, Leases and Hire Purchase agreements, and Credit Card 
+limits should be listed individually on the asset and liability statement and include the lender, 
+loan amount and repayments. 
+12.3 Council rates, body corporate charges, other statutory charges  
+For loans requiring LMI, where an existing debt is being refinanced or a further advance is 
+provided, the borrower should provide evidence that all rates, statutory charges (land tax, 
+water rates etc) and body corporate charges where applicable are up to date.  
+13 Savings history and proof of deposit and source  
+13.1 Evidence of funds to complete  
+The source of funds to complete the transaction must be clearly identified on the application. 
+In some instances, additional information may be required as to the actual source of the funds 
+eg may be from sale of a property or borrowed funds.  
+For loans with LVR > 80%, evidence such as bank statements, security deposit receipts etc. is to 
+be provided with the application. 
+13.2 Gifted funds  
+Gifted funds from an immediate family member (ie parents, grandparents, siblings or children 
+of the borrower) are generally acceptable as part of the borrower’s equity. Gifted funds may 
+form the balance of the required funds to complete, or may be used towards legal fees.  
+The borrower must provide a written statement from the person/s gifting the funds declaring 
+that it is a true gift and not repayable. For loans requiring LMI, the written statement must be a 
+statutory declaration. 
+If the gifted funds are repayable, full terms of the arrangement must be included in the written 
+statement and included in serviceability calculations where applicable.  
+Evidence of the source of the gifted funds may also be requested.  
+
+ 
+33 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+13.3 First Home Owners Grant (FHOG)  
+Firstmac are accredited to process FHOG applications. To process, the fully completed and 
+signed original FHOG application, as well as certified copies with the completed Customer 
+Identification Checklist are required. 
+Mortgage Insurers may assess FHOG loans on different ratios and guidelines.  
+14 Assessing the ability to repay 
+Establishing the borrower’s true debt servicing capacity is vital to assessing ability to repay. It is 
+not in the best interests of the borrower, or Firstmac, to take on more debt than they can 
+manage.  
+If the borrower cannot demonstrate an ability to repay, the application would not normally be 
+approved.  
+Only in clearly justifiable circumstances should the application be considered based wholly or 
+partly on the repayment capacity of a guarantor (refer section Third party 
+mortgages/guarantees). Such circumstances may arise where borrowers have taken action to 
+safeguard their assets in case of professional negligence claims. These actions can include:  
+• dissemination of income to family members;  
+• diversion of funds to related business entities.  
+This can lead to loan applications where the borrower has little or no income. Instead, the 
+borrower offers a guarantee by another person (must be common law spouses), or for loans to 
+companies a related business (directors / shareholder must be the applicant and / or common 
+law spouse), in support of the borrowing. In these circumstances, the guarantor must obtain 
+independent legal advice.  
+When assessing loan applications supported by a guarantee, the guarantor must have the 
+ability to meet the borrower's commitments in the event of the borrower defaulting. 
+Guarantors are to be assessed in the same way as primary borrowers.  
+When assessing an application, ensure that:  
+• any tax minimisation activity is clearly legal;  
+• the source of income is clearly legal;  
+• there is a clear benefit in the transaction to the borrower and to any guarantor.  
+A person must not be included as a borrower or a guarantor to a loan merely to add weight to 
+the loan application eg borrower of convenience. 
+ 
+
+ 
+34 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+15 Loan serviceability calculation 
+Firstmac uses the Net Disposable Income (NDI) method to assess a borrower’s ability to meet 
+regular fixed commitments. The NDI ratio is the ratio of net disposable income (after tax and 
+living costs) to total fixed commitments.  
+Serviceability is to be calculated using the Firstmac Servicing Calculator with minimum NDI 
+1.00:1 required. 
+Loans requiring LMI – the relevant LMI’s serviceability calculator is to be used, however a 
+minimum NDI of 1.00:1 must also be demonstrated on the Firstmac Servicing Calculator. 
+The deductions for total monthly commitments should include the following items:  
+• All regular debt repayment commitments (for Line of Credit loans, assume the loan is 
+drawn to the credit limit)  
+• Rent / board (may be excluded if ceasing on loan approval; if board is ongoing, refer 
+notional rental expense section of this policy)  
+• Any other fixed regular monthly commitments such as HELP/HECS debt repayments; 
+Child Support etc (to be shown as a liability, not a living expense) 
+• Minimum of 3.227% on the total credit card limit (equivalent to repaying the fully drawn 
+limit over a 3 year term) 
+• Living expenses/costs (refer Living Expenses) 
+• Other discretionary commitments (these vary according to a borrower’s circumstances; 
+any material items should be considered and taken into account in assessing). 
+15.1 Firstmac Serviceability Assessment Rate 
+The Firstmac Serviceability Assessment Rate (ie default servicing rate) for variable rate loans, 
+and new loans with a fixed interest rate period of less than 5 years, incudes an assessment rate 
+buffer to allow for future interest rate movements and / or unexpected expenses.  
+The Firstmac Assessment Rate applied in servicing is: 
+• New lending: 
+o Loan splits that have a variable interest rate, or a fixed rate term of < 5years – 
+the higher of (1) the weighted average interest rate of total loan being sought 
+plus an assessment rate buffer of 2.00% pa; or (2) the assessment rate floor of 
+6.25% pa. 
+o Loan splits that have a fixed rate term of 5 years – the actual rate is used as the 
+assessment rate, with no buffer or floor rate applied.  
+ 
+ 
+
+ 
+35 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Existing settled / ongoing loans (other lenders) 
+o Firstmac funded loans – the higher of (1) actual loan rate + an assessment rate 
+buffer of 2.00% pa; or (2) the assessment rate floor of 6.25% pa.  
+o Other financial institution (OFI) loans – assessment rate 8.25% pa 
+• Investment loan interest addback – where no OFI investment loans are held, the same 
+assessment rate as new lending is used to calculate the investment loan interest add-
+back; otherwise, the lower of the assessment rate for new lending and the OFI 
+assessment rate is used. 
+15.2 Proposed and ongoing home loan repayments 
+For servicing, a Principal and Interest (P&I) repayment is calculated for the new proposed loan 
+amount, and all ongoing home loans held by the borrower with Firstmac, and other financial 
+institutions. 
+For loans with Interest Only (IO) repayments, the Principal and Interest (P&I) repayment is 
+calculated using the residual Principal and Interest (P&I) loan term eg for a 30 year loan term 
+with IO repayments for the first 5 years, the P&I repayment is calculated over the residual P&I 
+term of 25 years.  
+15.2.1 New loan amount 
+The Principal and Interest (P&I) repayment for the new loan amount is calculated using the 
+Firstmac Assessment Rate, and a loan term determined by the repayment type selected for 
+each loan split / portion of the new loan: 
+• Principal & Interest (P&I) portion – proposed repayments calculated using the actual 
+loan term  
+• Interest Only (IO) portion – proposed repayments calculated using the remaining P&I 
+loan term ie the actual loan term less the IO period  
+15.2.2 Ongoing home loans – Firstmac and other financial institutions 
+P&I repayments for all ongoing home loans held by the borrower, with Firstmac and other 
+financial institutions is calculated using: 
+• Assessment Rate applicable to the application;  
+• The loan amount shown in the A&L, which is to include the loan balance + the amount 
+available to redraw on the loan; 
+• A default loan term based on the repayment type: 
+o P&I = 30 year loan  
+o IO = 25 years 
+
+ 
+36 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+15.3 Living Expenses 
+The cost of living may vary based on the borrower’s household and / or family unit. Reasonable 
+enquiries are to be made about a borrower’s variable living expense, and are to include the 
+amount the borrower spends on: 
+• General Living Expense –basic essential items such as groceries, clothing, utilities, 
+phone/mobile, internet, motor vehicle/transport, rates, general insurance (car / home), 
+basic education costs for dependents; and 
+• Education fees / costs – additional education costs for dependents eg private school 
+fees; and 
+• Childcare – out of pocket expenses associated with childcare; and 
+• Private Health Cover   
+15.3.1 Household Expenditure Measure (HEM) 
+The Household Expenditure Measure (HEM) will be used as a guide for the comparison of 
+general living expenses as stated by the borrower.  
+HEM data is subscribed through and provided by the Melbourne Institute of Applied Economic 
+and Social Research, Melbourne. 
+The HEM method adopted is based on the borrower’s ‘geographic location’ (ie where the 
+borrower lives in a Capital city, or not) and ‘household income’ (income bands).  
+15.3.2 Living expenses used for serviceability calculations 
+The Firstmac Servicing Calculator automatically calculates the total living expense to be applied 
+based on the amounts entered, and adopts the higher of: 
+• The total of the borrower stated ‘General living expense + Childcare’ or ‘HEM living 
+allowance’, whichever is higher;  
+PLUS 
+• ‘Educations fees/costs’, ‘Private health cover’ & ‘Other living expenses’ 
+15.4 Notional Rental Expense  
+Where the borrower is purchasing an investment property, and is boarding with family 
+(including parents) or friends either rent-free or at an unusually low cost, a notional rental 
+expense may be applied. 
+• ‘Boarding’ with 3rd party who is not the Applicant’s spouse/partner as described below, 
+higher of borrower stated board / rent expense or notional rental expense below is to 
+be applied: 
+o $500 / month for a Single – in addition to standard living allowance, existing 
+commitments etc. 
+o $650 / month for a Couple – in addition to standard living allowance, existing 
+commitments etc. 
+
+ 
+37 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• 
+‘Living with spouse/partner’ – where a sole applicant living with spouse/partner who is 
+not an applicant, where the rent expense/mortgage payment for the property they are 
+living in is in the spouse/partner’s name only, notional rental expense does not need to 
+be applied.  
+15.5 Joint income and joint commitments 
+Where the borrower has existing joint commitments with other parties who are not part of the 
+loan application, 100% of the existing commitment is to be included in calculating serviceability 
+for the new loan. 
+If the borrower shares a positive income source (other than from a joint investment property 
+that has a corresponding investment loan) with parties who are not part of the loan application, 
+the borrower’s ownership percentage will be applied to the gross joint income. Evidence may 
+be required to ascertain the ownership percentage. 
+15.5.1 Joint investment property with non-applicant 
+If the borrower shares an investment property and corresponding investment loan with parties 
+who are not part of the loan application: 
+• 100% of the investment loan repayment must be included in serviceability;  
+• 100% of the rental income can be used in serviceability; 
+• Borrower’s percentage ownership is to be applied to the investment loan interest 
+addback calculation.  
+Where there is no corresponding joint investment debt, the borrower’s ownership percentage 
+is to be applied to the rental income.  
+Evidence may be required to ascertain the ownership percentage. 
+15.6 Borrower with a non-applicant spouse / partner 
+Where a borrower is the sole applicant on a loan, and has a spouse / partner who is not an 
+applicant, full household living expenses are to be obtained from the borrower.  
+Where the non-applicant spouse / partner has income that is used to contribute to household 
+living expenses and commitments, consideration may be given to include that income to 
+demonstrate serviceability, provided there is a reasonable explanation for the loan structure 
+(eg Accountant recommendation to maximise taxation benefits; Legal advice for asset 
+protection; property owned prior to relationship). 
+This approach is at the discretion of Firstmac Credit and in some cases, may be more 
+appropriate to include the non-applicant spouse as a borrower.  
+When including non-applicant spouse’s income for serviceability, full details of the non-
+applicant spouse’s employment history and income are to be obtained, and must meet 
+standard employment and income acceptability criteria (including time in current employment). 
+Standard supporting documentation to confirm income and employment is required. 
+
+ 
+38 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+All ongoing liabilities and commitments held in the applicant’s name solely, jointly with the 
+non-applicant spouse, or in non-applicant spouse’s name solely, must be disclosed. 
+16 Security 
+All loans must be secured by registered first mortgages over acceptable real property, which 
+includes Torrens Title, Strata Title / Community Title, Common Law, and Crown leasehold 
+(providing the lease runs for at least 5 years past the maturity date of a loan).   
+Security properties must be for residential use and must be in good condition, free of defects, 
+well presented and readily saleable. Acceptable security includes houses; home units; flats; 
+apartments; town houses and villas; and vacant land with a signed fixed cost building contract. 
+Units/Apartments – where car spaces or garages attached to a unit/apartment are on a 
+different title to the actual residence, a first mortgage over the additional title for the car space 
+or garage must also be taken. 
+16.1 Geographic location 
+Security properties can be considered within all states and territories of Australia. The 
+maximum loan amount / LVR is determined by the postcode classification shown in the shown 
+in the Firstmac Acceptable Security location guide (refer section Loan amount). 
+Security in a postcode not listed in the Firstmac Acceptable Security location guide, will be 
+considered on a case by case basis, and may be subject to LMI approval. 
+Firstmac may impose additional restrictions on certain postcodes from time to time.  
+16.2 Security concentration 
+Firstmac may impose a restriction on the number of properties accepted as security in any one 
+(1) development, street, suburb or postcode, to limit concentration of exposure. Any such 
+restriction will be considered on a case by case basis. 
+16.3 Concentration limit 
+As part of risk management, Firstmac may set prudential concentration limits (eg on individual 
+projects, developments or buildings, areas) to help monitor and manage exposures in line with 
+business objectives. Concentration limits may be set on security type (e.g. vertical/horizontal 
+development), geographic location, and product. 
+16.4 Unacceptable securities 
+• Income producing properties, including but not limited to, rural properties or farms, 
+backpacker hostels or boarding houses 
+• Properties not connected to water (except in clearly recognized urban areas) and / or 
+national electricity grid 
+• Properties with an area in excess of 10 hectares  
+
+ 
+39 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Properties designed, zoned, or used for purposes other than residential use, such as 
+commercial, industrial, retail (excluding residential home units in a commercially zoned 
+development) 
+• Properties to be constructed by an owner-builder (in whole or part) 
+• Properties that are unique, or have restrictive usage 
+• Properties located on an unsealed road and / or considered remote / bush style / shack. 
+• Properties located on an island without sealed road connection to mainland 
+• Security boundary located within 50 metres of High Voltage Transmission lines 
+• Vacant land without signed fixed cost building contract 
+• Conversions (other than warehouse conversions) 
+• Unit developments where the development is held on one title and the number of 
+dwellings exceeds 2 units or dwellings 
+• A strata title home unit with a living area less than 50 sqm (excluding balcony and car 
+space) in non-metropolitan locations; or less than 40 sqm (excluding balcony and car 
+space) in metropolitan locations 
+• Any house or duplex / auxiliary unit with a living area less than 50 sqm 
+• Studio Apartment or bed-sitter (no separate bedroom) 
+• Serviced apartments, dual key apartments and / or Resort style dwellings 
+• Units in a strata hotel/motel 
+• Under a “time share” arrangement 
+• Kit homes 
+• Retirement homes and villages 
+• NDIS properties 
+• Leasehold properties (other than Crown Land in the ACT, with a term of at least 5 years 
+past the maturity of date of a loan), including where Title is leasehold strata 
+• Company title / Company Share Title (VIC); Purple Title (W.A.), or Moiety Title (S.A.) 
+• Limited Title (any defects) 
+• Properties with life tenancy 
+• Properties subject to the Western Lands Act 
+• Properties adversely impacted by mines subsidence, land slip or contaminated land 
+Any exceptions to unacceptable security may be considered on case by case basis by Firstmac 
+Credit.  
+
+ 
+40 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+16.5 High Density apartments / units 
+A High Density unit is a strata titled home unit or apartment in a development comprising more 
+than 6 floors that is in a postcode classified as High Density postcodes as per the Firstmac 
+Acceptable Security Location guide.  
+The following apply to these types of security:  
+• Minimum floor size of 50sqm (40sqm in metropolitan locations) in living area, excluding 
+balconies and car space 
+• Valuation should include comparable sales outside the development, and details of any 
+resales within the development  
+• Maximum LVR 80% (additional LVR and concentration restrictions may apply to 
+individual developments) 
+• Home unit or apartment developments comprising 6 floors or less are not defined as 
+high density, regardless of whether they are in a high density postcode, or not 
+16.6 Off-the-Plan purchases – revaluation and increased borrowing at settlement 
+A final valuation confirming property is fully complete is required prior to settlement of 
+properties purchased off-the-plan. 
+Firstmac recognises that an off-the-plan purchase may present a situation where the borrower 
+seeks to increase borrowing (at the time of settlement) in the light of an improved valuation of 
+the subject property.  
+The increased loan amount requested must not exceed the purchase price as per the original 
+contract of sale.  
+Normal lending criteria will apply (specifically, re-application and assessment for the increase) 
+but the following additional criteria in respect to the revaluation and request will also apply. 
+16.6.1 Period of time from exchange of purchase contract to settlement for purchase  
+The settlement for the purchase (and increased borrowing) must be at least 12 months from 
+the exchange of contract to purchase.  
+16.6.2 Valuation – increased borrowings 
+An updated valuation will be required to support the application for increased borrowing. The 
+valuation must specifically address comparable sales external to the subject. For a valuation to 
+be acceptable, it must be less than 90 days old. This requirement applies to additional loans and 
+variations. 
+16.6.3 LVR (Lending Value Ratio) 
+The LVR may be based on the updated valuation figure. Where loans are mortgage insured, 
+they must be in line with Mortgage Insurer policy with respect to such lending. All other policy 
+terms and conditions for the lending remain unchanged. 
+
+ 
+41 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+16.7 Multiple dwellings on single title / dual occupancy 
+Dual occupancy properties in which no more than two residential dwellings are held on one 
+certificate of title may be considered. The dwellings may be ‘in line’ such as a duplex, or 
+separate dwellings. Where the property is a duplex, or a primary unit with attached auxiliary 
+unit, the minimum living area for each unit should be 50 square metres. 
+The valuation report must include comparable sales of other dual occupancy properties in the 
+area within the last 6 months.   
+16.8 Display Home 
+It is not unusual for a builder/developer to construct a display home for marketing and 
+advertising purposes and subsequently sell the property to an investor on a lease back 
+arrangement. Where display homes are being considered as an exception, the following 
+applies: 
+• Display home located in NSW, or in a ‘display village’ in any state or territory, are 
+excluded 
+• Any restrictive zoning or covenants, or any other restriction on the sale or renting, 
+location of the property must be assessed and acceptable to Firstmac 
+• Detailed information on restrictions and/or covenants on the property 
+• Maximum LVR is 80% 
+• Mortgage insurance may be required 
+• There must be sufficient mitigants to support a display home and the valuation report 
+must include comments regarding the terms of the lease back arrangement 
+• Rental income used for serviceability may be limited to the amount that would be 
+achieved under a standard residential tenancy agreement. 
+16.9 Relocatable Home 
+This type of security is where an existing dwelling is purchased and then relocated onto another 
+block of land. Firstmac consider relocatable homes to be acceptable under standard policy 
+however, an assessment of a relocatable home cannot be completed until the property has 
+been installed in the new location and services connected, with evidence property complies 
+with Local Government Authority requirements to be provided. 
+16.10 Units in developments subject to a management agreement/letting pool 
+Security property located in developments which are subject to a management agreement / 
+letting pool may be considered, provided it is not resort/hotel accommodation aimed at holiday 
+makers, can be removed from the management agreement/letting pool and permanently 
+occupied (owner occupied or residential lease agreement). 
+If the security property has a managed and / or pooled rental agreement, the valuation must be 
+on the basis of vacant possession, without taking in to account the serviced apartment lease or 
+furniture packages. The Valuer comments must acknowledge the lease agreement in place and 
+
+ 
+42 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+specifically identify / provide details of provision for borrowers to remove the property from 
+the rental pool, and whether the property can be permanently occupied (owner occupied or 
+residential lease agreement). 
+16.11 Sales without the intervention of an agent  
+Sale of a property without the intervention of an agent is considered to be an arm’s length 
+transaction provided there is no relationship between the vendor and the purchaser. 
+Firstmac will consider loans for purchases where there is no agent involved in the sale provided 
+the valuer has commented within the valuation report acknowledging awareness of the terms 
+of the sale and that the valuation represents fair market value as defined by the memorandum 
+upon which the API pro-forma valuation is based.  
+16.12 Non-arm’s length transactions 
+Relates to the sale of a property where there is a relationship between the parties (purchaser 
+and vendor). 
+This includes advantageous/favourable purchases from a family member at a discounted price 
+or where a vendor is selling the property at a discounted price to a person to whom he/she is 
+indebted. 
+Firstmac will consider loans for non-arm’s length transactions, provided the valuer has 
+commented within the valuation report acknowledging the relationship between the parties, 
+awareness of the terms of the sale and that the valuation represents fair market value as 
+defined by the memorandum upon which the API pro-forma valuation is based.  
+For advantageous/favourable purchases from a family member, the LVR may be calculated on 
+the market value shown in the valuation report however the loan amount should not exceed 
+the purchase price of the property. Where there is no formal contract of sale, the ‘purchase 
+price’ will be based on the consideration amount shown on Transfer documentation, or other 
+documentation provided to support the transfer of ownership eg Family Law Court Agreement. 
+17 Security Valuations 
+An acceptable valuation is required for all security properties.  
+The following valuation types are acceptable subject to eligibility and acceptability criteria: 
+• AVM (Automated Valuation Model) 
+• EVR Desktop 
+• Full valuation  
+AVM is not available for SMSF loans; AVM and Desktop valuations are not available for 
+Construction loans, security in new estates or off the plan, or any loan requiring LMI. 
+
+ 
+43 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+17.1 AVM  
+AVM is an automated valuation model, provided by Corelogic (ValEx) using various data inputs 
+and analytics to provide an assessed value of the security property on the specified date.  
+The AVM results include a value range, an AVM Value (based on the mid-point of the range), 
+and an FSD (Forecast Standard Deviation).  
+The FSD represents the probability that the AVM Value will be +/- the FSD% of the sale value. 
+The lower the FSD, the more accurate the AVM value should be relative to the final market 
+value. 
+17.1.1 AVM Eligibility & Acceptability criteria 
+• Security located in Category 1a and 1b as per the Firstmac Acceptable Security Location 
+list. 
+• Maximum security Value: 
+House/ Unit / townhouse in NSW or VIC 
+$1,500,000 per security 
+House / Unit / townhouse in all other 
+States / Territories 
+$1,250,000 per security 
+ 
+• Maximum LVR and FSD: 
+o Maximum LVR 80% with FSD < 10% 
+o Maximum LVR 78% with FSD < 12% 
+o Maximum LVR 75% with FSD < 15% 
+• Refinance – AVM value adopted as market value 
+• Purchase – Contract of Sale purchase price adopted as market value where validated by 
+AVM ie purchase price to be within Upper and Lower range shown on AVM 
+17.2 EVR Desktop 
+EVR Desktop must be prepared by a registered licensed valuer acceptable to Firstmac. The 
+valuer assesses the market value through local knowledge of the security location, information 
+available through data sources, and other research methods adopted by the valuer, without 
+physically inspecting the property. 
+A valuer may deem an EVR Desktop valuation is not suitable due to lack of data and recent 
+imagery available on the subject property and surrounding sales; or the property may have 
+characteristics which would make it ‘unusual’ in relation to other properties in surrounding 
+area. In these cases, a full valuation is required. 
+17.2.1 EVR / Desktop Eligibility & Acceptability criteria 
+• Security located in Category 1a and 1b as per the Firstmac Acceptable Security Location 
+list 
+
+ 
+44 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Maximum security Value: 
+House/ Unit / townhouse in NSW or VIC 
+$1,500,000 per security 
+House/ Unit / townhouse in all other 
+States / Territories 
+$1,250,000 per security 
+ 
+• Maximum LVR 80% for home loan (refinance & purchase) 
+• Maximum LVR 70% for SMSF loans with residential security 
+17.3 Full Valuation report 
+Where the AVM or Desktop criteria is not met, a Full Valuation is required.  
+The valuation report must be for mortgage lending/security purposes and must be performed 
+by a registered licensed valuer acceptable to Firstmac and the Lender’s Mortgage Insurers. 
+Valuations must comply with the valuation standards as set out in Annexure 2. 
+Generally, Firstmac will not accept valuation reports more than 90 days old (from the date of 
+inspection) for final assessment of a loan, but may consider exceptions to this policy upon 
+application, with the consent of the Lender’s Mortgage Insurer, where applicable.  
+The valuation report for each security must be no more than 180 days old (from the date of 
+inspection) at settlement. 
+The valuation must be addressed to “First Mortgage Company Home Loans Pty Ltd” or the 
+appropriate Special Purpose Vehicle (SPV) if there is one applicable.  
+The valuation must also note that the valuation can be relied upon by:  
+• Firstmac Limited 
+• Firstmac Assets Pty Ltd and its associated entities 
+• Firstmac Fiduciary Services Pty Ltd 
+• Helia Insurance Pty Ltd 
+• QBE Lenders’ Mortgage Insurance Limited  
+and the respective related companies of these insurers, as advised. 
+Where applicable, approved Valuers should be advised of any inducements associated with the 
+purchase and asked to provide relevant comment. Such inducements may be in the form of 
+rental guarantees from the vendor, subsidisation of costs such as stamp duty or legal fees being 
+included in the purchase price, trade dollars, or rebates. 
+The valuation report should be reviewed carefully to ensure:  
+• The valuation report is assigned to the relevant interest parties  
+• The borrower(s) name(s) is / are spelled correctly  
+• The security property address is correct  
+
+ 
+45 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• The security property details are acceptable including house type; land size; description; 
+covenants to title; easements; land fill; local government zoning and any adverse 
+features raised by the valuer 
+• The valuation is signed and dated by a qualified valuer. The valuation should provide 
+details as outlined in the Australian Property Institute (API) PropertyPRO Pro-forma 
+Report (a copy can be obtained from Firstmac Credit).  
+If a valuation is conditional upon a certain requirement e.g. a survey report or pest inspection, 
+this requirement must be satisfied.  
+The valuation report is not to be provided to any third party e.g. a broker or the borrower/s, as 
+the valuation is for mortgagee purposes only. 
+17.4 Valuation variation - acknowledgement by proposed borrower(s) 
+Firstmac recognises that situations do arise where valuations on properties offered as security 
+may vary downwards against the purchase price.  
+In these instances, full and open disclosure of the situation must be made to the borrower 
+(excepting the amount of the valuation, which must remain confidential so as not to breach 
+engagement terms of the Valuer) and the borrower’s instructions sought on whether to 
+proceed with the proposed loan, given that other loan assessment criteria has been satisfied.  
+A valuation variation is deemed to occur when the purchase price is 10% or more above the 
+valuation amount of the proposed security 
+Upon receipt of a valuation which falls within the above category, the Originator / Mortgage 
+Manager must immediately inform the proposed borrower in writing advising the following: 
+• The lender’s valuation has produced a variation below the purchase price.  
+• The lender is still willing to lend (subject to other successful lending criteria).  
+• The borrower should be encouraged to make their own enquires about the value of the 
+property.  
+• The borrower must acknowledge the variation by signing a Valuation Variation 
+Acknowledgement prior to settlement to signify that they acknowledge the variation 
+and still wish to proceed with the loan.  
+The valuation amount must not be quoted to the borrower as the valuation is for lending 
+purposes only and is addressed to the lender and associated parties.  
+A template of the Valuation Variation Acknowledgement is provided in Annexure 1.  
+The borrower acknowledgement of the valuation variation is to form an integral part of the 
+loan documentation and as such must be a condition of Firstmac loan approval.  
+17.5 Builder / Developer Sales in Queensland – Form 8 
+The Property Occupations Form 8 forms part of the contract of sale for Queensland 
+contracts.  The Form 8 deals only with Agent’s disclosed referrals and benefits received.  
+
+ 
+46 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Where applicable, the fully completed Form 8 included with the full copy of contract of sale is 
+to be provided to the Valuer. The Valuer is to confirm in the valuation report that they have 
+sighted the Form 8 and acknowledge the benefit or value noted in the disclosure to prospective 
+buyer. 
+17.6 Valuation panel 
+For a valuer to be accredited and approved, valuers must be registered with either the Real 
+Estate Valuers Registration Board or the Australian Property Institute Inc.  
+All panel valuers must comply with Firstmac’s minimum valuation requirements as well as the 
+requirements of the specific mortgage insurers – refer to Annexure 2 Firstmac Valuation 
+Standards and Valuer Accreditation for full details. 
+Valuers are required to provide written confirmation of their registration/licensing 
+arrangements together with evidence of an acceptable level of current Professional Indemnity 
+Cover.  
+Valuers must only value properties located within the geographic areas in which they operate.  
+Firstmac reserves the right to restrict the number of valuers on the panel but will work with 
+Originators/Mortgage Managers to ensure that there are sufficient valuers on the panel to 
+meet the needs of the Originator/Mortgage Managers.  
+18 Loan purpose 
+Applicants must provide full details of the loan purpose to assist in the determination of the 
+loan’s status to ensure responsibilities NCCP are met. 
+The stated purpose must align with the proposed loan amount and all other aspects of the loan. 
+Full details regarding the proposed use of the funds provided must be clearly stated in the 
+application in all cases – simply stating “future investment” or “personal use” without further 
+context is not sufficient.  
+Additional documentary evidence may be required to support the stated loan purpose and 
+Firstmac reserves the right, to control the disbursement of loan proceeds in accordance with 
+the stated purpose. 
+18.1 Purchase owner occupied or investment residential property 
+Purchase of new (fully completed prior to settlement) or existing dwellings to be used for 
+owner occupied or investment purposes.  
+Purchase of vacant land will only be considered with a fixed price building contract, as a 
+construction loan. 
+18.2 Construction loans  
+Construction loans are available where the purpose of the loan includes: 
+
+ 
+47 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• purchase or refinance of vacant land with a fixed price building contract for construction 
+of a residential dwelling in place at time of application;  
+or 
+• major or structural renovations, or other improvements to the property held as security 
+where the property is valued on an ‘as if complete’ basis (may include refinance, prior to 
+commencement of construction / renovations).  
+Construction may only be undertaken by a licensed / registered builder. Owner builders are not 
+acceptable.  
+Progress valuations are undertaken at each stage of construction where a drawdown of the 
+loan is requested.  
+The borrower’s contribution toward the fixed-price building contract, and / or any extras / 
+variations, are to be paid by the borrower from their own funds prior to payment of any claims 
+for progress draws from the loan.  
+Firstmac will retain sufficient funds to complete construction (ie cost to complete), as estimated 
+by Firstmac’s valuer, irrespective of the progress payment schedule and / or the wording of the 
+building contract.  
+For owner occupation construction, Firstmac will require an occupancy certificate and the 
+owners may be allowed to complete items such as driveways and landscaping at their own 
+expense subject to provision of reasonable written quotes. The valuation will need to be based 
+on land cost/value and total construction costs, including the above items.  
+For investment property construction, Firstmac will require a building construction contract to 
+be on a full ‘’turnkey’’ basis, able to be occupied immediately on completion.  
+The construction period is limited to a period of 12 months from settlement date. If 
+construction is not completed within 12 months of the settlement date, an additional 0.50%pa 
+will be applied to the construction variable interest rate applicable to the loan at the time.  
+A maximum of 5% of the fixed-price building contract may be released to the builder for the 
+deposit at settlement of the land (all states except WA). In WA, a maximum of 6.5% of the 
+fixed-price building contract may be released. 
+Prior to the first drawdown Firstmac require: 
+• Copies of the plans approved by the relevant Local Authority  
+• Evidence of Builders registration / license and contractors insurance 
+• Builders fire and general insurance 
+• The signed final building contract. 
+Prior to final drawdown, Firstmac require:  
+• Certificate of Occupancy from the relevant Local Authority or council  
+
+ 
+48 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Split options and redraws are not available on construction loans. 
+The construction loan will revert to a standard home loan product once construction is fully 
+complete and the loan is fully drawn.  
+18.3 Home renovations / improvements 
+Where the loan purpose includes an amount for non-structural home renovations or 
+improvements, provided the current ‘’as is valuation’’ of the security property can support the 
+proposed amount within current LVR policy, loan draw-downs for these renovations or 
+improvements may not need to be controlled by Firstmac. 
+A construction loan is to be considered where: 
+• The security property needs to be valued on an ‘as if complete’ basis to support the 
+proposed amount within current LVR policy;  
+or 
+• The security property ‘as is’ value is sufficient to support the proposed amount within 
+current LVR policy and the value of work to be completed is > $100,000.  
+18.4 Refinance existing owner occupied or investment residential property loans  
+Loans to refinance existing loans from other lenders are acceptable however, good conduct of 
+the credit facility being refinanced is expected. 
+Comprehensive credit reporting and the borrower’s Equifax score is relied on to support 
+satisfactory repayment history of loans being refinanced, in lieu of refinance statements.  
+Refinance statements are not required where all borrowers on an application have an Equifax 
+score satisfactory to Firstmac, and the borrower’s credit report shows either no defaults, or 
+non-financial default that meets the criteria shown in Credit History. 
+18.5 Personal debt consolidation  
+Loans to consolidate personal debt from other lenders are acceptable however, good conduct 
+of the credit facilities being consolidated is expected. 
+Comprehensive credit reporting and the borrower’s Equifax score is relied on to support 
+satisfactory repayment history of loans being refinanced, in lieu of refinance statements.  
+Refinance statements are not required where all borrowers on an application have an Equifax 
+score satisfactory to Firstmac, and the borrower’s credit report shows either no defaults, or 
+non-financial default that meets the criteria shown in Credit History. 
+18.6 Equity release / cash out   
+Any loan, or part thereof, that is released / disbursed directly to the borrower is considered 
+cash out, regardless of the proposed loan purpose.  
+
+ 
+49 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+The purpose of the use of funds must be clearly identified in all cases. Generic loan purposes 
+such as Future Investment or Personal Use are unacceptable without additional detail from the 
+borrower. 
+For cash out amounts up to $100,000 with LVR < 80%, no further supporting documentary 
+evidence for the use of funds is required where the borrower provides sufficient clear details 
+relating to the proposed use of the funds.  
+Where the cash out amount is > $100,000, additional documentation is required to evidence 
+use of funds (eg contract of sale; quotes / invoices). Once acceptable evidence is provided to 
+support the loan purpose, controlled disbursement is not required unless the loan approval is 
+reliant on the funds being used specifically for that purpose e.g. funds to purchase rental 
+property not taken as security & serviceability is reliant on the proposed rental income.  
+Where the loan purpose is refinance, and borrower has redraw available in the home loan 
+being refinanced, cash out to retain the redraw position currently held with the outgoing lender 
+can be considered. Evidence of the current redraw position with the outgoing lender is to be 
+provided if the amount is > $100,000, and the cash out amount should be disbursed to the new 
+loan / offset sub-account at settlement. 
+18.7 Business use 
+Loans of up to $1,000,000 will be considered for the refinance of loans originally for business 
+use; and up to $500,000 for other business purposes.  
+Loans with LVR over 80% require LRF (subject to all criteria in Lender Risk Fee (LRF) – LVR > 80% 
+and < 90% being met) LMI (all relevant LMI criteria to apply). 
+Borrowers require a minimum of two (2) years self-employment in existing business.  
+If income from a business being purchased is required to support the loan, the business must 
+have been operating for a minimum of two (2) years. Income is to be supported by the last two 
+(2) years financial statements. 
+Acceptable Loan Purposes for Business Loans: 
+• Refinance an existing business loan, or part of an existing business loan 
+• Purchase of plant and equipment 
+• Purchase of an existing business 
+• Working capital < $50,000  
+Unacceptable Loan Purposes for Business Loans: 
+• Repayment of shareholder/director loans  
+18.8 Any other legal purpose 
+Loan purposes related to consumer goods and services; travel and holidays; household and 
+personal goods; motor vehicles; any other worthwhile purpose may be considered at the sole 
+discretion of Firstmac and Lender’s Mortgage Insurers (if applicable).  
+
+ 
+50 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+19 Loan amount 
+The maximum loan amount for each application is dependent on the location of the security 
+property and the number of security properties for that application.  
+Where any application shares a common security with another application, the maximum loan 
+amount is based on the total of those applications. 
+Regardless of the number of securities, the total loan amount for a single application or 
+multiple applications sharing any common security, is not to exceed $2,000,000. The Maximum 
+Borrower exposure must also be considered. 
+19.1 Postcode category 
+Postcodes are classified by Firstmac as either Category 1a, 1b, 2 or 3 as per the Firstmac 
+Acceptable Security Location list. The postcode categories are based on population figures 
+obtained from recent census data, and the geographic spread of the postcode. 
+Postcodes not listed are classified by Firstmac as ‘non-lend postcodes’ and will generally not be 
+accepted.  
+19.1.1 Postcode sub-category 
+An additional sub-category may be applied to some postcodes, with restrictions on LVR, loan 
+amount, or both.  
+• ‘Mining’ 
+o applies to some Category 3 postcodes that are ‘mining towns’ (local economy is 
+predominantly reliant on mining industry) 
+o Category 3 with sub-category ‘Mining’ restrictions: 
+▪ Security use Owner Occupied – maximum LVR 70% and loan repayments 
+must be P&I 
+▪ Security use Investment – not acceptable security 
+• ‘Do not lend’ 
+o Added to postcodes where Firstmac will not accept security eg islands not 
+connected to mainland Australia or Tasmania by road 
+19.2 Maximum LVR & Loan Amounts by Postcode location 
+Maximum LVRs and maximum loan amounts apply on a ‘per security’ basis and may vary by 
+occupancy type (ie owner occupied or investment), loan purpose and security type. 
+Regardless of the number of securities offered, the maximum loan size is $2,000,000.  
+Where LMI is required, the relevant policy regarding maximum loan amount per security needs 
+to be considered however, Firstmac limits above must also be met. 
+ 
+ 
+
+ 
+51 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Maximum LVR & loan amount per security: 
+Loan / Security Type 
+Maximum LVR / 
+Security Use 
+Maximum loan amount per Category 
+Category 1a 
+Category 1b 
+Category 2 
+Category 3 
+Home Loans – OO & INV 
+LVR < 80% 
+Excludes: 
+Units in a development > 6 
+floors in high density 
+postcodes; 
+Construction loans  
+80% – OO (P&I) 
+80% – INV (P&I) 
+70% – INV (IO) 
+$2,000,000 
+$1,400,000 
+$950,000 
+$700,000 
+80% – OO (IO) 
+80% – INV (IO) 
+$1,500,000 
+$1,000,000 
+$950,000 
+$700,000 
+SMSF Loans – INV 
+LVR < 80% 
+Excludes: 
+Construction loans 
+70% – INV (P&I) 
+$2,000,000 
+$1,400,000 
+$950,000 
+$700,000 
+80% – INV (P&I) 
+$1,500,000 
+$1,400,000 
+$950,000 
+$700,000 
+Home Loans – OO & INV 
+LVR > 80% < 90% 
+Excludes: 
+SMSF loans; 
+Non-resident borrowers; 
+Units in a development > 6 
+floors in high density 
+postcodes; 
+Construction loans 
+> 80% < 90% with 
+LRF – OO & INV 
+(P&I only) 
+$1,000,000 
+$750,000 
+Not available 
+Not available 
+> 80% < 90% with 
+LMI – 
+OO (P&I only)* 
+INV (P&I or IO) 
+$1,000,000 
+$1,000,000 
+$950,000 
+$700,000 
+Units in a development > 
+6 floors in high density 
+postcodes 
+80%  –  OO & INV 
+(P&I – Home & 
+SMSF Loans; 
+IO – Home loans) 
+$1,000,000 
+$1,000,000 
+$950,000 
+$700,000 
+Construction loans 
+Excludes: 
+SMSF 
+80%  – OO & INV 
+$1,200,000 
+$1,200,000 
+$950,000 
+$700,000 
+> 80% < 90% with 
+LMI** 
+$1,000,000 
+$1,000,000 
+$950,000 
+$700,000 
+* If OO is the only security, must be P&I regardless of loan purpose; if OO & INV security, IO repayments available 
+** Limited product offering 
+ 
+ 
+
+ 
+52 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+20 Repayment types 
+Firstmac offers the following repayment options:  
+Term loans 
+• Principal & Interest amortising over the term of the loan 
+• Blended Interest Only and Principal & Interest which 
+allows for an initial interest only period of up to 5 years 
+then amortising over the remaining loan term 
+21 Loan term 
+Principal & interest 
+repayments 
+Maximum loan term available is 30 years 
+Interest only 
+repayments  
+Interest only period of 5 years maximum. Overall loan term 
+of maximum 30 years.  
+22 Interest rate options 
+The interest rate options available are:  
+• Variable  
+• Fixed for terms of 1, 2, 3, 4, or 5 years (may vary from time to time) 
+Fixed rates may not be available on all products – refer to individual product specifications.  
+When a borrower applies for a fixed rate loan, the interest rate is not set until the day of 
+settlement. The interest rate for that particular day will be applied to the borrower’s loan for 
+the fixed term required. 
+If a variable rate loan with an Offset sub-account is converted to a fixed rate loan, the Offset 
+sub-account will no longer be available. 
+22.1 Fixed rate break costs 
+Fixed rate loans attract break costs where the loan is repaid either in full or in part and where 
+the interest rate at which the repaid amount can be re-lent is less than the actual fixed interest 
+rate of the loan at the time of repayment.  
+23 Split loan options 
+Except for Construction Loans, borrowers may create sub-accounts within the loan and receive 
+separate statements for each sub-account. These sub-accounts must have the borrowers name 
+in the title followed by an identifying name (or names) and may relate to:  
+• Loan purpose – personal, investment, business, refinance, purchase  
+• Loan type – variable rate, fixed rate, P&I, Interest Only  
+
+ 
+53 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Security type – owner occupied, investment, property 1, property 2  
+• Product type – standard loan product, line of credit  
+There is no fee charged where sub-accounts are established upon settlement of the loan.  
+Where the borrower elects to establish sub-accounts after settlement of the loan, a fee will be 
+payable except in those cases where the sub-account comes into being as a result of a portion 
+of the loan being fixed. 
+24 Repayments 
+Repayments must be by way of a direct debit against a nominated account with a financial 
+institution or on some products by electronic salary crediting (refer to individual product 
+specifications). In all cases a signed direct debit authority against a nominated bank account is 
+to be held, even though it is not active as is the case with salary crediting. Repayments are not 
+to be made directly to an Originator / Mortgage Manager.  
+Repayments may be made either weekly, fortnightly or monthly.  
+Borrowers may make additional principal payments to their loan account at any time or pay a 
+regular nominated amount in excess of their normal loan repayment. Break costs may be 
+payable if principal reductions are made during a fixed rate period (refer to Fixed rate break 
+costs section of this policy).  
+If a borrower has elected to make the minimum repayment on their Firstmac loan and a rate 
+rise occurs, Firstmac will automatically increase the loan repayment amount to cover the 
+interest rate rise.  
+Similarly, if a borrower has chosen to repay a fixed amount greater than the minimum 
+repayment and a rate rise occurs, Firstmac will automatically increase the loan repayment to 
+cover the minimum repayment amount in the event that the fixed amount originally set no 
+longer covers the minimum repayment amount required.  
+24.1 BSB details 
+Borrowers are able to credit their account using a number of methods and will require the BSB 
+and account number (x-reference, not application number) to facilitate the transfer. 
+Transaction type 
+BSB 
+Electronic transfers including direct salary crediting, internet / phone 
+transfers  
+704 997 
+Over the counter transactions at any Bank@Post Australia Post outlet, 
+using designated barcoded deposit book (Borrower to arrange through 
+Firstmac Customer Service, or Online services) 
+N/A 
+
+ 
+54 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+25 Redraw 
+A redraw of excess payments is available on most Firstmac variable rate loan products subject 
+to the loan not being in default at the time of the request. The availability of the redraw facility 
+is at the discretion of Firstmac.  
+For most loans a redraw may be arranged by way telephone, Internet request (funds transfer 
+and biller payment) or by contacting the Originator / Mortgage Manager by telephone or in 
+writing (refer to individual product specifications). Where the loan account has transactional 
+functionality, additional access to redraw funds is available by way of ATM and EFTPOS 
+facilities.  
+26 Variations and Substitutions 
+26.1 Internal refinances, additional advances and further advances 
+For any loan increases (top-ups) and further advances, a new application form and standard 
+supporting documentation is required. The application will be assessed using all credit criteria 
+current at the time of the request. 
+Where an updated valuation is required, the Valuation firm that completed the original 
+valuation should be used for the updated valuation. If the value of the security has increased 
+within 12 months of the original valuation, the Valuer should comment on the reasons for the 
+increased value eg further improvements completed since last valuation etc. 
+If the original loan is mortgage insured, the mortgage insurer’s requirements will need to be 
+followed. 
+26.2 Other Variations  
+All variations to existing loans such as substitution of security, partial discharge of security and 
+consents (plan of subdivision, 2nd mortgage, lease etc), must be submitted to Firstmac for 
+assessment and approval. 
+27 Identifying borrowers  
+Under the Anti-Money Laundering and Terrorist Financing Act 2006 (Cth) (‘’AML/CTF Act’’), 
+Firstmac must identify certain information collected about an individual’s identity before it 
+provides them with services and products. Please refer to Firstmac’s requirements and 
+procedures regarding collection and verification of this information. 
+Firstmac's agreements with the Originator / Mortgage Manager Agents or Brokers appoint 
+them as an agent of Firstmac and require all the Originator / Mortgage Manager Agents or 
+Brokers to adopt the Firstmac customer identification procedures (and any other AML/CTF 
+obligations). In addition, any Originator / Mortgage Manager Agents or Brokers introducing 
+borrowers must have undertaken acceptable AML/CTF training and must agree to undertake 
+on-going education and training as required. 
+
+ 
+55 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Originator / Mortgage Manager must provide Firstmac with a completed Customer 
+Identification Checklist for each borrower, guarantor and company director as required by the 
+Anti Money Laundering and Counter Terrorism Legislation or any other identification 
+procedures as advised and required by Firstmac. Each Checklist should be completed by the 
+party taking the application eg broker. Firstmac’s approved form is available on the Firstmac 
+website, alternate forms may be approved by Firstmac. Birth Certificates and/or Naturalisation 
+Certificates are not acceptable forms of identification. 
+The Customer Identification Checklist or any other identification procedures as advised and 
+required by Firstmac must be completed by a staff member of the Originator / Mortgage 
+Manager.  At least one piece of photographic evidence e.g. passport; driver’s license is to be 
+sighted and compared to the applicant. Clear copies of the evidence certified by the person 
+must be submitted with the application and kept on file.  
+Where a broker dealing directly with Firstmac conducts a face to face interview with borrower 
+they need to submit fully completed and signed Checklist or any other identification procedures 
+as advised and required by Firstmac. 
+Electronic Verification of identity. Firstmac may also verify the identity of a borrower, guarantor 
+and company director using information held by a credit reporting agency provided it has the 
+express consent and authorization of the individual whose identity is being verified as 
+permitted under the Anti-Money Laundering and Counter Terrorism Financing Act 2006 
+(‘’AML/CTF Act’’). 
+In the event of any inconsistencies between this manual and the Firstmac AML/CTF Program as 
+amended from time to time, the Firstmac AML/CTF Program will prevail. 
+28 Offset sub-account 
+Where a loan product includes an Offset sub-account, all loan repayments and additional 
+payments to the loan account can be credited to the Offset sub-account. The Offset sub-
+account is 100% offset against the loan. 
+Loan repayments are debited from the Offset sub-account and applied to the loan/s Redraws 
+are debited from the Offset sub-account.  
+Borrowers will receive separate account statements for the loan account and the separate 
+Offset sub-account. 
+29 Self-Certified (Lo Doc) loans 
+Self-Certified (Lo Doc) loans are no longer available. Where a borrower with an existing Lo Doc 
+loan requires additional borrowings, the loan must be converted to a Full Doc loan with all 
+standard supporting documents and credit assessment for a Full Doc loan to apply. 
+
+ 
+56 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+29.1 Self-Certified (Lo Doc) loan conversions 
+Self-Certified (Lo Doc) borrowers who have obtained the last two (2) years taxation returns and 
+financial statements are eligible to have their loan re-assessed to see if they qualify for a fully 
+verified loan.  
+If the borrower qualifies, Firstmac will require a new, fully completed loan application form and 
+may require an updated valuation depending on the age of the current valuation held together 
+with fully verified income documentation, tax returns ATO notices etc.  
+All costs incurred in the changeover are borne by the borrower/s.  
+30 Building insurance 
+A Certificate of Currency of Insurance for the security property issued by the Insurer, is required 
+for each security property prior to settlement. In all cases, the first mortgagee’s interest must 
+be noted on the policy until the debt is repaid. 
+Improvements (the building) are to be insured against damage and destruction for not less than 
+its full replacement value. If the property is in a bushfire or flood prone area, or is subject to a 
+specific environmental or other risk, the insurance policy should cover such risks.  
+Cover notes or certificates issued by an insurance broker or body corporate are not accepted. It 
+is the borrower’s responsibility to ensure the building insurance for full replacement value 
+remains current, with the first mortgagee’s interest noted on the policy, until the debt is repaid.  
+31 Self Managed Super Funds (SMSF) 
+The legislative requirements applicable to loans to SMSFs includes a requirement that lenders 
+have no right of recourse against the SMSF assets other than the security property, which also 
+has to be held in a separate security custodian trust. 
+The legal title and legal ownership to the property must be held on trust by an independent 
+trustee (the “security custodian trustee") and the SMSF must have the ability to acquire the 
+legal interest in the property. 
+The SMSF must comply with all regulations applying to superannuation funds, Superannuation 
+Industry (Supervision) Act 1993 (the “’SIS Act’’) as amended. 
+The basic structure of for an SMSF loan is: 
+Trustee for Complying Self Managed Super Fund (SMSF)  
+The SMSF is the borrower and beneficial owner of property. The SMSF Trustee(s) can be 
+individual trustees where all members of the SMSF must be trustees; or a corporate 
+trustee where all members of the SMSF must be directors of the trustee company.  
+Security custodian trustee is the legal owner of property  
+The security custodian / trustee must be a company, but must be a different company 
+to the SMSF company trustee (if applicable). It does not matter who the 
+directors/shareholders of the security custodian trustee are – they can be anyone. 
+
+ 
+57 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Lender provides the loan 
+Firstmac lends to the complying SMSF and has no recourse against the assets of the 
+SMSF other than the security property.  
+31.1 Borrower (SMSF) 
+The ‘Borrower’ is the SMSF Trustee, which holds the beneficial interest in the security property.  
+The SMSF trustee must have the right to acquire the property from the Property Trustee, and 
+must be permitted to borrow in accordance with the relevant legislative requirements (and any 
+associated regulations). 
+Where the trustees of the SMSF are individuals, the loan will be made to the Trustees in their 
+own right and as Trustee for the SMSF. 
+Trust deeds and documentation will be reviewed by Firstmac Legal Counsel, or nominated 
+panel lawyers, to confirm satisfactory to Firstmac and need to include provision for: 
+• Borrowed funds being applied for the acquisition of the purchased property, 
+• Purchased property is being held on trust for the SMSF so the SMSF acquires a beneficial 
+interest, 
+• When the mortgage is paid out in full, title to the property may be transferred to the 
+SMSF or Security Custodian Trustee can continue as registered proprietor. 
+• Name, address and ACN (if a company) of SMSF Trustee. 
+31.2 Personal guarantee from Members (SMSF) 
+Personal guarantees from all adult beneficiaries (members) of the SMSF for the full loan 
+amount are required. 
+Where the trustees of the SMSF are individuals, the trustee is a borrower in their own right & as 
+trustee for the SMSF so additional personal guarantees from the trustees are not required. 
+However, personal guarantees from all members that are not also trustees, are required. 
+31.3 Independent Legal Advice (SMSF)  
+SMSF borrowers and guarantors are to obtain independent legal advice. Evidence the advice 
+has been obtained must be provided prior to settlement. 
+For refinances where the SMSF and guarantors can provide evidence that independent legal 
+advice has been obtained previously for the loan being refinanced, the advice for the new 
+refinance loan will be waived. 
+31.4 Credit Report & Credit History (SMSF) 
+A credit report through Equifax is required for each individual associated with the loan including 
+guarantors and directors of any corporate trustee. Credit reports are to be completed and 
+reviewed per section Credit Reports. 
+All parties associated with the SMSF loan must have clear credit, with no history of defaults, 
+judgement or bankruptcy. 
+
+ 
+58 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+31.5 Loan purpose (SMSF) 
+• Purchase residential property for investment only. The loan purpose must not include 
+any additional assets purchased at the time the property is purchased, such as 
+furnishings or other items which are not fixtures; can include costs associated with the 
+loan establishment. 
+• Refinance of existing SMSF loan (dollar for dollar refinance, and associated costs) where 
+the original asset remains in place. Any surplus at settlement as a result of repayments 
+being made on the loan being refinanced between application and settlement, are to be 
+paid to the loan account at settlement to reduce the loan amount. 
+• Unacceptable purposes and transactions:  
+o Vacant land, Construction or property development 
+o Company Title ownership structures 
+o Equity Release/Cash Out or Debt Consolidation 
+o Purchase/Refinance of properties occupied by SMSF beneficiaries or related 
+parties 
+o Non Arm’s length transactions 
+o Purchases from related party of SMSF Trustees 
+o Purchase or refinance owner occupied property 
+o Home Improvements or renovation of security property 
+o Bridging Finance 
+o Additional advances / top ups 
+o Substitution of security 
+o Recouping equity expended 
+• Capitalisation or funding of interest not permitted (as per SIS Act). Loan funds must only 
+be used for the purchase or refinance of a property and there can be no redraws, offset 
+accounts or further advances. 
+• SMSF members or related persons are not permitted to occupy property. 
+31.6 Repayment type & Loan Term (SMSF) 
+Repayment type: 
+• Principal & interest repayments only. 
+Loan term: 
+• Up to 30 years available. 
+
+ 
+59 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Trust deeds will be reviewed by Firstmac Legal Counsel to ensure that the termination 
+date of the trusts (if applicable) exceed the requested loan term. If required, Trust 
+deeds will need to be amended to meet this requirement before settlement. 
+31.7 Interest rate options (SMSF) 
+Interest rate options available are: 
+• Variable 
+• Fixed for term of 5 years (or less if offered from time to time) 
+o Break costs may apply where fixed rate term is broken and / or where additional 
+repayments of more than $10,000 are made to the loan in a calendar year. 
+o Fixed interest rates are set on the day of settlement of the loan. The interest rate 
+for that particular day will be applied to the borrower’s loan for the fixed term 
+required. 
+31.8 Loan amount & LVR (SMSF) 
+A maximum loan amount applies on a ‘per security’ basis. Refer to Postcode category and 
+Firstmac Acceptable Security Location guide for details of Category 1a, 1b, 2 and 3 postcodes. 
+LVR 
+Category 1a 
+Category 1b 
+Category 2 
+Category 3 
+70% – INV (P&I) 
+$2,000,000 
+$1,400,000 
+$950,000 
+$700,000 
+80% – INV (P&I) 
+$1,500,000 
+$1,400,000 
+$950,000 
+$700,000 
+ 
+Restrictions on loan amount, LVR, or both may apply to some postcodes – refer Postcode sub-
+category.  
+31.9 Minimum liquid asset position (SMSF) 
+The SMSF must have access to: 
+• Sufficient funds to complete the transaction at the time of application: 
+o For a purchase, liquid assets available to the SMSF should include the required 
+funds to complete the purchase transaction based on the approved LVR; 
+o For a refinance, the minimum asset position required is sufficient equity in the 
+property to complete the refinance based on the approved LVR. 
+• Minimum liquid assets (interest / dividend earning assets) equivalent to 5% of the total 
+debts of the SMSF, including the new loan amount, after the loan transaction is 
+complete.  
+Where the liquid assets are not already held by the SMSF (eg cash in cash management 
+account; shares that can be liquidated), the funds need to be available in an existing industry or 
+retail superannuation account that is in at least one of the SMSF members names. 
+
+ 
+60 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+31.10 Serviceability (SMSF) 
+Serviceability is to be calculated using the Firstmac SMSF Servicing Calculator with minimum 
+NDI 1.00:1 required. 
+SMSFs must be able to service the loan from existing SMSF income and assets, proposed rental 
+income and members’ contributions. 
+The serviceability assessment will include a review of: 
+• The stability & history of super fund contributions & other fund income. 
+• The capacity to continue making the required superannuation fund contributions and 
+consideration given to the timing of super fund contributions (which may be ‘lumpy’ or 
+irregular). 
+• Where the member / contributor is self-employed, an appropriate assessment of the 
+underlying trading business or other sources that will be relied upon to make ongoing 
+contributions. 
+31.10.1 
+Serviceability assessment rate (SMSF) 
+Firstmac’s SMSF Serviceability Assessment Rate is used to calculate stressed repayments for 
+new and ongoing mortgage loans.  
+• New lending: 
+o Loans that have a variable interest rate, or a fixed rate term < 5 years – the 
+higher of (1) the actual rate of the loan plus an assessment rate buffer of 2.00% 
+pa; or (2) the assessment rate floor of 6.25% pa. 
+o Loans that have a fixed rate term of 5 years – the actual rate is used as the 
+assessment rate with no buffer or floor rate applied. 
+• Existing settled / ongoing investment loans: 
+o Firstmac funded loans – the higher of (1) actual loan rate + buffer of 2.00% pa; or 
+(2) the assessment rate floor of 6.25% pa. 
+o Other financial institution (OFI) loans – assessment rate 9.25% pa. 
+31.10.2 
+Acceptable income for serviceability (SMSF) 
+Acceptable sources of income to demonstrate serviceability by the SMSF: 
+• 100% of mandatory superannuation contributions (SGC as determined by ASIC). 
+• 100% of non-mandatory / voluntary contributions may be considered to support 
+serviceability of the SMSF, provided the additional contributions are regular and 
+evidenced. 
+o Where not regular, or the amount of additional contributions needs to be 
+increased for serviceability of the SMSF, each member of the SMSF must 
+demonstrate their own ability to provide the required additional contributions – 
+refer to SMSF Members serviceability section of this policy.  
+
+ 
+61 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Rental income – if multiple sources of evidence are provided, higher actual rent received 
+may be used if the property is rented through a real estate agent with a copy of a 
+current tenancy agreement or rental statements provided. Otherwise, the lowest rental 
+amount should be used. Rental income relied on for serviceability as follows: 
+o 80% of rental income from residential investment properties held by SMSF, 
+including proposed rental income where the loan is for a purchase. 
+o 70% of existing rental income from commercial investment properties held by 
+the SMSF. 
+• Income from interest / dividend earnings in the SMSF based on a deemed return of 
+return equal to the RBA cash rate. Where actual investment income is evidenced to be 
+consistently higher in the last 2 years SMSF tax returns, up to 80% of the lower year may 
+be relied on. Current evidence of the investments must be provided (eg super fund 
+statements, current shareholding, term deposits etc).  
+• Negative gearing benefits can be included in calculations (auto calculated in the 
+Firstmac SMSF Serviceability Calculator). 
+• Projected income from future investments, and income from non-SMSF assets is not 
+permitted. 
+31.10.3 
+Expenses (SMSF) 
+Ongoing expenses associated with running the SMSF are taken in to consideration by ensuring 
+the Minimum liquid asset position (SMSF) is met.  
+31.10.4 
+Member’s serviceability assessment (SMSF) 
+Where there is a history of non-compulsory contributions that are sufficient to support the 
+SMSF’s serviceability assessment (if applicable), a serviceability assessment of the SMSF 
+members as individuals is not required. 
+If, however, new or increased non-compulsory contributions to the SMSF are needed to 
+support the SMSF’s serviceability assessment, each individual SMSF member’s financial position 
+should be assessed. 
+Details of each Member’s individual financial position should be collected, including living 
+expenses, a full statement of assets & liabilities, and evidence of all personal income (refer 
+Acceptable income types). 
+The serviceability assessment for the individual members is to determine they have sufficient 
+surplus net disposable income after all personal expenses / commitments & liabilities, to make 
+the additional contributions required for the SMSF to service the loan. 
+31.11 Security for SMSF loans 
+In addition to the requirements shown in Security section, SMSF loans must only be secured by 
+a “single asset” comprising a security single dwelling property on a single title (not two or more 
+separate titles). 
+
+ 
+62 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+In cases, where the property is split into 2 titles (eg unit and car space, or single dwelling with 2 
+separate titles, that cannot be sold individually), Firstmac may consider as “one asset’’ and may 
+lend under one loan using one security custodian trust, subject to: 
+• The borrower has obtained their own legal advice that the property is “one asset” and 
+separate titles cannot be sold individually (Firstmac requires a statutory declaration to 
+that effect); 
+• The property must be valued as “one asset” in the valuation report arranged by 
+Firstmac. 
+Adequate insurance is required for each security property, refer Building insurance section for 
+more details. 
+31.11.1 
+Unacceptable security types for SMSF loans 
+The following security types are NOT permitted for SMSF loans: 
+• Security types listed in Unacceptable securities 
+• Any asset not acquired with the loan proceeds 
+• Property with more than one property or dwelling / occupancy on a single title 
+• Specialised security eg Retirement Village units or holdings 
+• Property development 
+• Properties on land exceeding 2.5 hectares 
+• Cash Deposits 
+31.12 Security Valuations for SMSF loans 
+An acceptable valuation is required for all security properties: 
+• AVM is not available for SMSF loans 
+• Desktop valuations are available for SMSF loans with residential security to maximum 
+LVR 70%; additional criteria applies as per EVR / Desktop Eligibility & Acceptability 
+criteria. 
+• 
+Full valuation required if all EVR / Desktop Eligibility & Acceptability criteria is not met  
+Refer to Security Valuations for full details. 
+31.13 Documentation required with application (SMSF) 
+31.13.1 
+SMSF & Security Custodian Trust 
+• Certified copy of the original Trust deed establishing the SMSF and certified copy of all 
+variation deeds since SMSF established (if applicable). 
+• Certified copy of the Security Custodian Trust deed, and certified copy of all variation 
+deeds since established (if applicable). 
+
+ 
+63 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Statutory declaration from all SMSF beneficiaries that the SMSF is a compliant SMSF 
+under the SIS Act requirements, prior to loan settlement.  
+31.13.2 
+Evidence of income for SMSF & Members 
+Income available for SMSF serviceability to be evidenced as follows: 
+• SMSF: 
+o Established SMSF – recent SMSF bank statements evidencing regular member 
+contributions 
+o New / recently established SMSF – most recent superannuation statements for 
+all the SMSF beneficiaries from their current industry / retail fund 
+o Statements provided will also verify liquid asset position of the SMSF 
+• PAYG members (including Self-employed individuals paying self PAYG): 
+o 2 most recent payslips showing super contributions 
+• Self-employed members: 
+o Last two years SMSF bank account statements, or current industry or retail fund 
+statements to be rolled over, evidencing member contributions and cash / 
+investments 
+• Rental income – evidence of all rental income relied on for serviceability  
+o Existing rent received by SMSF – latest rental statements or current lease 
+agreement; 
+o New rent for property being purchased by SMSF – rental appraisal from local 
+agent or rental value shown on valuation report (full valuation reports only) 
+• Other income – recent super fund statements showing investment earnings & current 
+investment holding 
+31.13.3 
+Evidence to support loan purpose 
+Purchase: 
+• Property purchase contract (Security Custodian must be noted as Purchaser) 
+• Funds to complete purchase: 
+o Funds already held by SMSF – evidence sufficient funds held by SMSF to 
+complete the purchase (can be same statements obtained to evidence member 
+contributions); or 
+o Funds to be paid to SMSF – evidence from beneficiaries that the deposit moneys 
+to be paid to SMSF are allowable contributions to the SMSF (eg rollover from 
+another industry / retail superannuation fund) 
+ 
+
+ 
+64 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Refinance: 
+• Recent bank statements for the SMSF showing repayments made to the loan (can be 
+same statements obtained to evidence member contributions) 
+31.13.4 
+SMSF compliance status via Super Fund Lookup  
+Verification that an established SMSF is a registered and complying fund as determined by the 
+ATO, is to be provided via Super Fund Lookup (www.superfundlookup.gov.au). This lookup will 
+also provide confirmation that an ABN has been registered for the SMSF.  
+The status of the SMSF in Super Fund Lookup must be shown as ‘Complying’ prior to 
+settlement.  
+Recently registered SMSFs with a status of ‘Registered’ may be considered for approval 
+however, the status must be ‘Complying’ prior to settlement. 
+A complying SMSF: 
+• is regulated by the ATO; and 
+• has been issued with a Notice of Compliance 
+Complying funds that meet the Superannuation Industry (Supervision) Act 1993 standards 
+qualify for concessional tax rate. Employer contributions made to complying funds can qualify 
+as Superannuation Guarantee (SG) payments. 
+Applications from an SMSF with a status of ‘Non-complying’, ‘Regulation details withheld’ or 
+‘Regulation details removed’ will not be considered.  
+Refer to www.superfundlookup.gov.au for more details on the status types. 
+ 
+31.14 SMSF loan and security documentation 
+Preparation of the Firstmac loan and security documentation will be by a Firstmac Panel Lawyer 
+as determined by Firstmac, and will include:  
+• Credit Contract between Firstmac and the SMSF including charge over beneficial interest 
+in the security property (limited recourse). 
+• Mortgage over legal interest in the security property by Security Custodian Trustee 
+(limited recourse). 
+• Mortgage side deed between Firstmac, the Security Custodian Trustee and the SMSF 
+Trustee(s) (limited recourse to the property being purchased). 
+• A guarantee from Security Custodian Trustee (the right of indemnity from SMSF will be 
+limited to the property being purchased). 
+• Statutory Declaration from a director of the SMSF Trustee regarding compliance by the 
+SMSF with the SIS Act. This will be transaction specific. 
+• Personal guarantees from all adult members of the SMSF.  
+
+ 
+65 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Notes 
+Firstmac’s recourse against the SMSF Trustee and the SMSF for default in respect of payment 
+are limited to the security property. 
+No collateral may be taken from the SMSF. The right of indemnity from the SMSF must be 
+limited to the security property. 
+31.15 Loan Variations, Redraw or Offset 
+Post settlement loan variations such partial discharge or substitution of security are not 
+permitted.  
+Further principal sums cannot be advanced and redraw of additional payments made to the 
+loan are not permitted. 
+Separate Offset sub-accounts are not available. 
+32 Bridging loans 
+Bridging loans provide a finance option for borrowers requiring a short term increased level of 
+debt to assist with the purchase of a new property before completing the sale of an existing 
+property. 
+Once the existing property is sold, total debt may be repaid in full (e.g. downsizing), or reduced 
+with sale proceeds leaving an ‘end debt’ that is repaid over the remaining term of the loan. 
+Definitions:  
+Initial amount financed – the total funding required to complete the new purchase, refinance 
+any existing debt on the existing property being sold, any fees associated with the purchase 
+(e.g. stamp duty), and any fees associated with the establishment of the bridging loan fee that 
+are capitalised to the loan. 
+Peak debt – the initial amount financed (including the upfront bridging loan fee) and interest 
+charges capitalised during the bridge period.  
+End debt – the residual loan amount required after the existing property has sold.  
+Bridge period or term – the period from the initial settlement until the sale of the existing 
+property settles and the debt is paid out in full, or reduced to the end debt amount.  
+32.1 Bridging loan criteria 
+Summary of the parameters that apply during the bridge period: 
+• Minimum Equifax CCR score 700 for the Primary Borrower (ie borrower with highest 
+income) 
+• New property being purchased must be owner occupied; existing property being sold 
+can be owner occupied or investment 
+• Maximum LVR 80% based on the peak debt 
+
+ 
+66 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• Maximum LVR 80% based on end debt, assuming 20% haircut on original property to be 
+sold 
+• Maximum bridging loan peak debt $3.0M, reducing to standard limits post sale of the 
+existing property, refer Loan Amount   
+• Category 1a and 1b postcodes only – refer Postcode Category 
+• Existing property must be listed for sale prior to settlement of the new purchase 
+• All other applicable credit criteria applies 
+32.2 Bridging loan structure 
+At the commencement of the loan, a mortgage is taken over the new property being 
+purchased, and the existing property that is to be sold.  
+Where there is an existing debt on the property to be sold, that debt needs to be refinanced to 
+Firstmac and must settle simultaneously with the new purchase settlement.  
+When the sale of the existing property settles, the bridge period ends. The loan will either be 
+repaid in full (i.e. no end debt), or where an end debt applies, the loan reverts to a standard 
+home loan for the remainder of the total loan term selected. 
+32.2.1 Loan term – bridge period & end debt 
+The bridge period / term must be selected at the commencement of the bridging loan.  
+Where an end debt will apply, the overall loan term can be up to 30 years (subject to Age of 
+borrower / guarantor requirements) however the bridge period selected must be either 6 or 12 
+months. Where no end debt will apply, the loan term matches the bridge period selected ie 6 or 
+12 months.  
+32.2.2 Interest rate type during bridge period 
+The interest rate applied during the bridge period is fixed. After the bridge period, the interest 
+rate reverts to a standard loan product with a variable interest rate.   
+32.2.3 Interest charges & repayments during bridge period 
+The initial 3 months of the bridge period are interest free with an upfront fee payable that is 
+capitalised to the loan. If the bridge period ends within the initial 3 months, the upfront fee is 
+not refundable. 
+After the initial 3 months, interest is calculated on daily balances and charged to the loan 
+monthly on the anniversary of the settlement date. The interest charged to the loan for months 
+4 – 6 inclusive is capitalised to the loan, resulting in the peak debt at the end of the 6th month.  
+As the upfront fee and interest charged during month 4 – 6 inclusive is capitalised, monthly 
+repayments are not required to be made during the initial 6 months of the bridge period.  
+For loans with a 12 month bridge period, interest is calculated on the peak debt from month 7 – 
+12 inclusive, with monthly interest only repayments required during that period. 
+
+ 
+67 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+32.3 Serviceability – bridging loans 
+Serviceability for the bridge period is assessed up front on the calculated peak debt (refer 
+Serviceability during the bridge period), and on the end debt i.e. the loan amount after existing 
+property is sold. The Firstmac Bridging Loan serviceability calculator must be used for bridging 
+loans.  
+The serviceability test for bridging loans can include all standard Acceptable income types, and 
+must take into consideration the borrower’s living expenses and ongoing commitments as per 
+Loan serviceability calculation.  
+32.3.1 Serviceability during the bridge period 
+For loans with a bridge period of 6 months, there is no bridge period serviceability assessment 
+required as any interest charged during the bridge period is capitalised to the loan. 
+Loans with a bridge period of 12 months however will require a serviceability assessment to 
+ensure sufficient net disposable income to cover the interest only repayments on the peak debt 
+for month 7 – 12 inclusive.  
+Due to the nature of bridging loans, the interest only repayments for this serviceability 
+assessment are calculated using the peak debt amount at the bridging loan interest rate (fixed 
+for bridge period); the residual PI loan term is not used for the calculation of the bridging loan 
+repayment.  
+32.3.2 Serviceability of the end debt 
+Where there will be an end debt after the existing property is sold, the standard serviceability 
+assessment (refer Loan serviceability calculation) is required using the residual PI loan term e.g. 
+loan written over 30 years including 12 month bridge term – serviceability of the end debt will 
+be assessed over 29 years. 
+32.4 Valuations for bridging loans 
+Standard valuation policy applies to bridging loans – refer Security Valuations. 
+A valuation is to be completed on both properties taken as security at the time of origination, at 
+which time the LVR is assessed for both the peak debt, and the end debt (using the security to 
+be retained only). No further valuation of the property being retained as security for the end 
+debt is required at the end of the bridge period to facilitate the discharge of the property that 
+has been sold. 
+ 
+ 
+
+ 
+68 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Annexure 1 Valuation Variation Acknowledgement template 
+ 
+(Originator / Mortgage Manager Letterhead) 
+ 
+Date  
+ 
+Borrower(s) / Name(s)  
+Borrower(s) Street Address  
+Suburb  State  Postcode 
+ 
+Dear Salutation Borrower/s Name/s 
+ 
+Application for Finance - Security Property situated at address 
+Valuation Variation Notice 
+ 
+We wish to advise that a property valuation report has been completed for the above address by an 
+independent certified valuer.  
+ 
+The valuation report is for mortgage purposes only and takes into account a range of risks, including 
+recent market movements and environmental factors. The report includes an estimated amount for which 
+the property would be expected to exchange between a buyer and a seller.  
+ 
+This notice is issued for the purposes of informing you that the property valuation report indicates the 
+purchase price is <<insert % variance>> above the current market value assessed by the valuer.  
+ 
+You cannot rely on a lender’s valuation report for your own purposes and it is recommended you make 
+your own enquiries as to the value of the property. 
+ 
+Despite the reduced valuation, the Lender is prepared to proceed with your loan application, should you 
+wish to continue.  
+ 
+If you want to proceed with your loan application, please confirm and acknowledge this valuation variation 
+advice by signing below.  
+ 
+If you would like to discuss the matter further please do not hesitate to contact us.  
+ 
+Yours sincerely 
+ 
+ 
+Originator / Mortgage Manager Name 
+ 
+ 
+ 
+ 
+I / We acknowledge receipt of this Valuation Variation advice and confirm that I/we wish to proceed with 
+the loan application.  
+ 
+Signed: 
+ 
+ 
+ 
+ 
+Signed: 
+
+ 
+69 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Annexure 2 Firstmac Valuations Standards and Valuer Accreditation 
+Valuation minimum standards 
+• 
+The valuation of a proposed mortgage security is an integral part of Firstmac policy and risk 
+management 
+• 
+To ensure the valuation of the residential property is accurate and reliable, it is imperative that 
+any entity which gives instructions for preparation of a valuation, and the valuer meet certain 
+minimum standards 
+• 
+Firstmac’s Valuation minimum standards (Valuation Standards) set out the basis on which 
+Firstmac is prepared to accept residential property valuations for lending purposes and is 
+intended to outline Firstmac’s expectations with regard to instructions for the preparation of 
+valuations and valuers with respect to residential property valuations 
+ 
+The Valuation Standards are designed to establish consistent minimum standards for the provision of 
+residential property valuations for Firstmac and for LMI purposes.  
+ 
+Application 
+The Valuation Standards apply to: 
+• 
+any valuation report for Firstmac or for LMI purposes and/or relying on a valuation report in 
+support of a loan application; 
+• 
+any party involved in arranging a valuation report for Firstmac or for LMI purposes; and 
+• 
+any valuer providing a residential property valuation submitted to Firstmac or for LMI purposes. 
+ 
+From time to time Firstmac may also issue supplementary valuation guidance notes that are to be read 
+and interpreted in conjunction with the Valuation Standards.  
+ 
+Firstmac reserves the right to not accept a residential property valuation submitted to Firstmac which 
+does not meet the Valuation Standards. 
+ 
+To the extent that a particular section of the Valuation Standards cannot be complied with, such non-
+compliance must be raised with Firstmac and prior approval sought for an alternative means of 
+complying with the relevant section.  
+ 
+Specific Firstmac DLA Discretion - Firstmac Credit may approve exceptions to non-compliance with 
+particular sections of the Valuation Standards on a case by case basis depending on the relevant 
+circumstances.  Any exceptions are to be referred to Manager Loan Processing, Head of Credit or Head 
+of Risk, Compliance and Legal. 
+ 
+A - Valuer Accreditation 
+1. When appointing a valuer (#) to its panel to perform valuations, Firstmac and any of its 
+authorized parties, will act prudently and ethically. 
+2. Before appointing a valuer to perform residential property valuations, Firstmac requires the 
+following minimum due diligence with satisfactory results: 
+- 
+Obtain company profile and resume of each of the principals/directors of the valuer; 
+- 
+Obtain a list of current lender clients as references and check references to ensure the 
+valuer’s previous history is acceptable; 
+
+ 
+70 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+- 
+Ascertain which geographic areas are covered by the valuer, and in which geographic 
+areas the valuer specialises; 
+- 
+Ascertain the number and experience of residential mortgage security valuers – 
+employees and contractors - on staff and evaluate the capacity of the valuer to service 
+the relevant geographic areas; 
+- 
+Conduct a search of the Department of Fair Trading (or equivalent state/territory body) 
+valuer register; 
+- 
+Ascertain whether the valuer has an internal compliance and peer review process; and 
+- 
+Perform A.S.I.C. company director searches on each principal/director of the valuer and 
+consult with LMI (in need) regarding any adverse findings. 
+3. For existing valuers who perform residential property valuations for Firstmac, Firstmac expects 
+compliance with these Valuation Standards. 
+4. Firstmac and any of its authorized parties shall use reasonable commercial endeavours to 
+monitor and ensure that these Valuations Standards are met. 
+ 
+(#) Valuer is any firm, company or individual. A valuer is an individual valuer employed or engaged, via 
+contractual arrangements or otherwise, by a valuer (if not a sole trader). 
+ 
+B – Acceptable Valuer qualifications 
+Valuer obligations 
+1. In all cases, the inspecting valuer shown on a valuation report to Firstmac is required to be a 
+current financial member of the Australian Property Institute (API) or other recognized valuation 
+industry body. 
+2. Firstmac will only accept residential property valuations from a valuer registered or licensed in 
+the state or territory in which the relevant property is located. Such registered or licensed 
+valuers must be one of the following classifications of API members (or such equivalent 
+classifications in any other recognised valuation industry body) and hold Certified Practicing 
+Valuer (CPV) status or Residential Property Valuer (RPV) status: 
+- 
+Provisional Member (PMAPI) 
+- 
+Associate (AAPI) 
+- 
+Fellow (FAPI) 
+- 
+Life Fellow (LFAPI) 
+3. Where the property is located in a state or territory in which a valuer is not required by law to 
+be licensed, the valuation must be by a valuer who is a member of the API (or other recognized 
+valuation industry body) as above. 
+4. Valuation reports signed by a Provisional Member (PMAPI) with Residential Property Valuer 
+(RPV) status are only acceptable when co-signed by a supervising Member who is s Certified 
+Practicing Valuer (or equivalent). The supervising Member must confirm they have reviewed the 
+valuation and working papers, and based upon such review and appropriate questioning 
+obtained reasonable satisfaction that the value opinion contained in the valuation has been 
+reached based on reasonable grounds. 
+5. Valuations completed by a Provisional Member (PMAPI) of the API who does not have RPV 
+status are not acceptable unless a CPV is the primary signatory. In signing as the primary 
+signatory the CPV does so in accordance the API Rules of Conduct. The role of the Provisional 
+Member is as a trainee valuer. 
+6. Valuation reports signed by an Associate (AAPI) who does not have Certified Practicing Valuer 
+status are only acceptable when co-signed by a supervising member who is a Certified Practicing 
+
+ 
+71 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Valuer (or equivalent). The supervising Member must confirm they have reviewed the valuation 
+and working papers, and based upon such review and appropriate questioning obtained 
+reasonable satisfaction that the value opinion contained in the valuation has been reached 
+based on reasonable grounds. 
+7. Firstmac will not accept residential property valuations undertaken by a Student Member, 
+Graduate Member (GAPI) or Provisional Associate (PAAPI) of the API (or equivalent members of 
+other recognizable valuation industry bodies). 
+ 
+C - Professional indemnity (PI) insurance 
+Acceptable PI cover – Valuer obligations 
+1. A valuer performing residential property valuations for Firstmac or for LMI purposes must have 
+and maintain professional indemnity (“PI”) insurance which:- 
+- 
+covers the acts and omissions of all valuers without exclusion, in any way involved in the 
+preparation or provision of valuations for Firstmac or for LMI purposes; 
+- 
+does not have a deductible (or excess) for any single occurrence greater than $50,000; 
+- 
+does not have a limit of liability in respect of any single occurrence less than $1 million; 
+and 
+- 
+does not have an aggregate limit of liability of less than $2 million. 
+2. The amount of required PI cover (as above) may be higher as advised by Firstmac. The directors, 
+employees, contractors and other representatives of a valuer performing residential property 
+valuations for Firstmac or for LMI purposes, must not act in a manner that will void or reduce 
+the indemnity extended to them under their PI insurance policy (e.g. failure of the valuer to 
+report circumstances that may give rise to a claim). 
+3. A valuer performing residential property valuations for Firstmac or for LMI purposes must agree 
+to have and maintain PI insurance in accordance with this section for at least 7 years after the 
+last date on which the valuer provided a residential property valuation for Firstmac or for LMI 
+purposes. 
+4. A valuer must notify Firstmac or its agent immediately of any changes to their company 
+structure, including change of director/s or changes to the trading entity such as, company or 
+trading name, ABN etc.  
+ 
+Acceptable PI Cover 
+1. Before appointing a valuer to perform residential property valuations, Firstmac will: 
+- 
+ensure that each valuer appointed to its panel to perform residential property 
+valuations for Firstmac or for LMI purposes has Acceptable PI Cover as described above 
+at the time of seeking appointment; 
+- 
+provide written certification to its LMI (where required), on an annual basis, that all 
+appointed valuers have Acceptable PI cover; 
+- 
+obtain on an annual basis from each appointed valuer (or their broker or insurer) 
+evidence of Acceptable PI Cover by way of a full copy of the policy and provide such 
+copy to Firstmac within 14 days of any request. A Certificate of Currency alone is 
+insufficient; and 
+- 
+require a valuer to disclose to Firstmac (who will in turn disclose to its LMI where 
+required) any exclusions or unusual or onerous conditions imposed on any appointed 
+valuer by a PI insurer promptly after becoming aware of any such exclusions or 
+conditions.  
+
+ 
+72 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+2. For existing valuers who perform residential property valuations for Firstmac, Firstmac and its 
+authorized parties expect compliance with section 1 above. 
+ 
+D - Ethical conduct 
+When appointing and instructing a valuer to perform valuations, Firstmac and its authorised parties shall 
+act ethically and in accordance with the Valuation Standards. 
+ 
+Valuer obligations 
+A valuer providing a residential property valuation report for Firstmac or for LMI purposes shall ensure 
+that its directors, employees, contractors and other representatives at all times act in accordance with 
+the API Code of Ethics & Rules of Conduct (or other equivalent professional standards and codes of 
+conduct) and the Valuation Standards. 
+ 
+E – Valuation instructions 
+When instructing a valuer to perform a valuation for Firstmac or for LMI purposes, under no 
+circumstances is anyone other than Firstmac or its authorized parties entitled to give instructions to the 
+valuer. 
+ 
+Where valuations are for LMI purposes, Firstmac will: 
+• 
+Require instructions to a valuer to be in accordance with the API Residential Valuation & 
+Security Assessment Supporting Memorandum (or other equivalent professional standards and 
+guidelines) and these Valuation Standards. 
+• 
+Firstmac may, at its absolute discretion, approve the use of valuation management / ordering 
+systems by Firstmac’s Agents. Such systems should randomly allocate the instructions to an 
+appropriate valuer from Firstmac’s panel of valuers. Firstmac’s Agent should not be able to 
+select or influence the selection of the valuer at any point. 
+• 
+Require Originator / Mortgage Manager must retain a copy of the valuation instructions with 
+the credit/lending file. Where an agent instructs the valuer on behalf of Firstmac, Firstmac may 
+require a copy of the valuation instructions and retain this with the credit/lending file. 
+• 
+Firstmac should ensure that the valuer specifically states the name of the instructing party on 
+the valuation report and the report is extended for use by LMI. 
+ 
+Valuer obligations 
+• 
+A valuer performing a residential property valuation for Firstmac or for LMI purposes should not 
+accept valuation instructions from Firstmac or its authorized parties where those instructions 
+are not in accordance with the API Residential Valuation & Security Assessment Supporting 
+Memorandum (or other equivalent professional standards and guidelines) and the Valuation 
+Standards. 
+• 
+The names of both the instructing party and the lender should be separately and clearly stated 
+on all valuation reports performed for LMI purposes. 
+• 
+Instructions to perform a residential property valuation received from Firstmac or its authorized 
+parties should not be accepted by a valuer who does not have local knowledge and competence 
+in the geographical area of the property being valued. 
+ 
+ 
+
+ 
+73 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+F - Valuation report 
+Valuer obligations 
+1. The API ‘PropertyPRO’ pro-forma template developed for residential mortgage valuation work is 
+Firstmac’s preferred residential mortgage valuation report format. 
+2. Unless otherwise agreed with Firstmac, valuation reports not submitted in the PropertyPRO or 
+similar format will not be accepted by Firstmac. 
+3. Where a valuation report supports an application for Firstmac or for LMI purposes, the valuer 
+providing the valuation report is in all cases required to: 
+- 
+Complete the report in accordance with: (a) the API Code of Ethics & Rules of Conduct, and 
+the API PropertyPRO Residential Valuation and Security Assessment Pro-forma Supporting 
+Memorandum; or (b) other equivalent professional standards, codes of conduct and 
+guidelines, and (c) the Valuation Standards. 
+- 
+State that the property is suitable for prudent mortgage lending purposes or the property is 
+in satisfactory internal/external condition; habitable; readily saleable; and not adversely 
+affected by any easements, restrictions, environmental, planning or heritage issues that 
+affect marketability. 
+- 
+Stipulate that Firstmac (or others as nominated by Firstmac) is entitled to rely on the 
+valuation report for lending and LMI purposes; 
+- 
+Supply a signed copy of the completed valuation report in electronic PDF format noting the 
+qualifications of the prime (inspecting valuer) and any supervising or co-signatory valuer; 
+- 
+Provide a detailed list of any defects or recommended repairs, including an approximate 
+cost to complete the required work; 
+- 
+Prominently highlight any limitations or exclusions; and 
+- 
+Ensure that an internal inspection of the property has been undertaken for preparation of 
+the Valuation report, unless otherwise agreed by Firstmac. 
+ 
+G - Panel management 
+1. Firstmac: 
+- 
+Will have a documented service level agreement with each valuer appointed, 
+- 
+Will annually verify that each valuer appointed to its panel for performance of valuations 
+has Acceptable PI Cover, 
+- 
+Will review the performance of its valuer regularly, which includes a hindsight review 
+process, 
+- 
+Will have a dispute resolution process in place, 
+- 
+Or its authorized parties will immediately notify Firstmac’s LMI (where applicable) when it 
+becomes aware of a potential claim against a valuer in respect of a valuation performed for 
+Firstmac or for LMI purposes and/or relied upon in support of a loan proposal to Firstmac. 
+2. Firstmac will ensure that any valuation report relied upon in support of a loan to Firstmac or an 
+LMI proposal is not more than 3 months old at the date the proposal for Firstmac/LMI is made. 
+3. Firstmac will provide to its LMI (where applicable) with any proposal for LMI, copies of all 
+valuations in respect of the property received by the lender in the period of 12 months prior to 
+the date the proposal for LMI is made. 
+4. Requires valuers to notify Firstmac or its agent immediately about any change of director(s) or 
+company details. 
+
+ 
+74 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+Annexure 3 Firstmac Valuation Guidelines for Mortgagee in Possession (MIP) 
+valuations 
+Firstmac requires that a Valuer instructed for an MIP property be different to the original Valuer. 
+Firstmac reserves the right in its absolute discretion to either accept or reject a valuation 
+notwithstanding these requirements. The Valuer engaged by Firstmac will be instructed to comply with 
+these valuation requirements. 
+ 
+Valuation reports are required to make reference to the following: 
+1. The valuation is being prepared to assist Firstmac (and the mortgage insurer, where applicable) 
+in achieving the best sale result for the property. 
+2. The valuation is not being instructed for mortgage security purposes, and references to ‘First 
+Mortgage’ or ‘prepared for mortgage security purposes’ should be deleted. Standard references 
+and disclaimers used specifically for mortgage security valuations should be deleted where 
+standard format permits. 
+ 
+Basis of Valuation 
+1. The property is to be valued on the basis of its highest and best use as defined by Australian 
+Property Institute (API) guidelines. 
+2. The assessment of market value of the property should reflect a typical marketing period for the 
+class of property in the current market conditions. The expected selling period should 
+accompany the market value. Where the expected selling period is greater than 6 months, a 
+separate comment should be made on the dynamics of the market. 
+3. A single valuation figure, being the assessed market value, should be recorded for the value in 
+line with traditional valuation practice. In addition, a market value range may be included based 
+on the valuer’s opinion of current market sentiment and interpretation of comparable sales. No 
+mention or reference to a forced sale range or forced sale figure will be accepted. 
+4. A detailed description of the property in accordance with API standards is required. 
+5. To the extent a valuer is qualified; valuer is to provide comment on any necessary repairs 
+(including estimated cost) and/or maintenance work that if carried out, would increase the 
+marketability of the property within its market segment. 
+6. Provide an ‘As Is’ market value and ‘As if complete’ market value where necessary repairs 
+and/or maintenance work are recommended to be undertaken. 
+7. Provide details of current zoning and any applicable approvals that will have an impact on the 
+value or marketability of the property. 
+8. Provide short comment on the market conditions for similar properties in the local area at the 
+time. 
+9. Provide comment on the most appropriate method of sale for the subject property. 
+10. A comprehensive list and detailed information on the most recent comparable sales should be 
+provided, with specific comment as to the relevance of the assessment of the subject property’s 
+value. Relevant comparable sales older than 3 months may be used in this assessment however 
+a detailed explanation on the adjustment made to account for present market conditions must 
+be provided. 
+ 
+Comments Required in Valuations 
+• 
+Include any negative or positive features which may impact on marketability or early sale of the 
+property (i.e. termite damage, specialised use, easements and incomplete renovations). Please 
+advise if there is a need for building, pest, strata or any other third party reports. 
+
+ 
+75 
+Firstmac Limited ABN 59 094 145 963 
+AFSL/Australian Credit Licence 290600 
+ 
+• 
+Comment on any possible issue where improvements do not appear to have council approval or 
+may not meet building codes/legislation. 
+• 
+Include previous sale of subject property if sold in last 3 years, and briefly comment on reason 
+for variance to the currently assessed value. 
+• 
+Comment on whether the property would incur a GST liability when sold. 
+ 
+Include photographs of the subject property from the front, rear and internally. Photographs should 
+highlight any major defects or areas of repair. 
+ 
+Please include the current Insurance Replacement Cost and estimated rental value. 
+ 
+Comment on any issue the Valuer believes the Mortgagee should address in relation to Public Liability 
+(for example, where the condition of the property could pose a risk of injury, such as a swimming pool 
+may not have fence, unusually exposed drainage or wiring etc). 
+ 
+The Valuer’s report is to be treated as confidential and Valuers are requested to not discuss the values 
+within their report with real estate agents (this does not exclude the sharing of relevant information). 
+ 
+Valuations must be carried out by an AAPI (CPV) or FAPI (CPV) Valuer who has experience in valuing in 
+the specific property area. 
+ 
+Firstmac (and the mortgage insurer, where applicable) may request further updates on the valuation if 
+the property has not sold in 3 months. 
+ 
+ 
+ 
+ 
+

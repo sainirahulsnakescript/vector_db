@@ -1,0 +1,8 @@
+__pycache__
+vectorstore
+venv
+.venv
+env
+.env
+start_model.sh
+.DS_Store
