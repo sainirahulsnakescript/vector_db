@@ -26,7 +26,7 @@ def get_specific_folder_list(folder_path):
 def process_payslip(folder_path,file):
     try:
         embeddings = OpenAIEmbeddings()
-        vectorstore_path = f'vectorstore/payslip_db_faiss/{folder_path}'
+        vectorstore_path = f'vectorstore/loan_db_faiss/{folder_path}'
         vectorstore = None
         data = []
         file_path = os.path.join(folder_path,file)
@@ -80,24 +80,14 @@ def convert_pdf_to_text(file_path):
 
 
 
-payslip_folder_paths  = f'paysilp_search/payslip_floder'
+payslip_folder_path = f'loan_search/loan_floder'
+folder_list = get_folder_list(payslip_folder_path)
 
-def convert_into_embedding(folder_path):
-    """
-    Recursively process files in the folder and its subfolders.
-    """
-    # Process files in the current folder
-    file_list = get_specific_folder_list(folder_path)
-    for file in file_list:
-        file_path = os.path.join(folder_path, file)
-        if file_path.endswith('.pdf'):  # Process only PDF files
-            text_file_path = convert_pdf_to_text(file_path)
-            text_file_name = os.path.basename(text_file_path)
-            process_payslip(folder_path, text_file_name)
-    
-    # Recursively process subfolders
-    folder_list = get_folder_list(folder_path)
-    for folder in folder_list:
-        subfolder_path = os.path.join(folder_path, folder)
-        convert_into_embedding(subfolder_path)
-
+for folder in folder_list:
+    single_folder_path = os.path.join(payslip_folder_path,folder)
+    files = get_specific_folder_list(single_folder_path)
+    for file in files:
+        file_document = os.path.join(single_folder_path,file)
+        text_file_path =  convert_pdf_to_text(file_document)
+        text_file_name  = os.path.basename(text_file_path)
+        process_payslip(single_folder_path,text_file_name)

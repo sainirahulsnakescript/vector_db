@@ -121,7 +121,7 @@ def get_answer(question, vectorstore):
 
 
 def get_vector_db_index(query):
-    parent_folder ='paysilp_search/payslip_floder'
+    parent_folder ='vectorstore/payslip_db_faiss/paysilp_search/payslip_floder'
     folder_list = get_folder_list(parent_folder)
     folder_name = get_folder_names_from_gpt(query,folder_list)
     logger.info(f'Folder Name Get from Gpt: {folder_name}')
@@ -131,11 +131,12 @@ def get_vector_db_index(query):
     file_name = get_file_names_from_gpt(query,file_list)
     logger.info(f'file name get from gpt: {file_name}')
     vector_database_path = 'vectorstore/payslip_db_faiss'
-    complete_path_db = os.path.join(vector_database_path,folder_path)
+    complete_path_db = folder_path
     if os.path.exists(complete_path_db):
         logger.info(f'Folder path in database Exits at: {complete_path_db}')
-        pkl_path = os.path.join(complete_path_db,file_name.replace('.pdf','.pkl'))
-        faiss_path = os.path.join(complete_path_db,file_name.replace('.pdf','.faiss'))
+        base_file_name = os.path.splitext(file_name)[0]
+        pkl_path = os.path.join(complete_path_db,base_file_name+'.pkl')
+        faiss_path = os.path.join(complete_path_db,base_file_name+'.faiss')
         if os.path.exists(pkl_path) and os.path.exists(faiss_path):
             logger.info(f'Succesfully Found index of File "{file_name} \n Index of file {os.path.splitext(file_name)[0]}"')
             return {"index":os.path.splitext(file_name)[0],"folder_path":folder_path}

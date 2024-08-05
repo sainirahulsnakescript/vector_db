@@ -9,10 +9,13 @@ def get_folder_list(folder_path):
     folders = [item for item in items if os.path.isdir(os.path.join(folder_path,item))]
     return folders
 
-def get_specific_folder_list(folder_path):
-    items = os.listdir(folder_path)
-    files = [item for item in items if os.path.isfile(os.path.join(folder_path,item))]
-    return files
+def get_specific_folder_list(folder_paths):
+    for folder_name ,folder_path in folder_paths.items():
+        items = os.listdir(folder_path['path'])
+        files = [item for item in items if os.path.isfile(os.path.join(folder_path['path'],item))]
+        folder_paths[folder_name].update({'file_name':files})
+    
+    return folder_paths
 
 def clear_terminal():
     # Determine the operating system
